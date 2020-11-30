@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-layout: docs
-title: Courses
+title: Statistik
+type: widget_page
 ---
 
