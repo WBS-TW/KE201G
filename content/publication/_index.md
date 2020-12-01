@@ -2,7 +2,6 @@
 header:
   caption: ""
   image: ""
-layout: docs
-title: Courses
+title: Publications
+view: 4
 ---
-

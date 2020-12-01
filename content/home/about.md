@@ -4,15 +4,15 @@
 widget: about
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 3
+weight: 20
 
-title: Lärare i kursen
+title: Biography
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

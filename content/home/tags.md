@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Populära tema och huvudord
+title: Popular Topics
 subtitle:
 
 content:

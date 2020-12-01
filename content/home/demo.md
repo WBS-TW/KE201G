@@ -10,10 +10,10 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 15
 
-title: Introduktion till Analysvetenskap och Forensik
-subtitle: Om kursen
+title: Demos
+subtitle:
 
 design:
   columns: "1"
@@ -28,11 +28,11 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Välkommen till kursen: Introduktion till Analysvetenskap och Forensik (KE201G)
+Welcome to the demo of the **resumé template** for Academic.
 
-**Hitta kursschema i [Kronox](https://kronox.oru.se/index.jsp).**
+[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
 
-**På [Blackboard](https://idp.oru.se/oxauth/login.htm) hittar du kursmaterial samt kursanslag**
+**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
 
 **[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
 
