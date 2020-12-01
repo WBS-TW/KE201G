@@ -21,6 +21,8 @@ design:
   columns: "1"
   spacing:
     padding: ["20px", "0", "20px", "0"]
+
+## Use https://mermaid-js.github.io/mermaid-live-editor/ to modify mermaid gantt
 ---
 
 
