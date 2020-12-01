@@ -2,7 +2,7 @@
 Date: 2020-11-30
 diagram: true
 math: true
-title: Programupplägget
+title: Kursupplägg
 ---
 
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.

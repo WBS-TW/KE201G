@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Programinnehåll"
-  url = "/programinnehåll"
+  name = "Kursupplägg"
+  url = "/kursupplägg"
   weight = 1
 
 [[main]]
