@@ -29,7 +29,7 @@ design:
 gantt
   dateFormat  YYYY-MM-DD
   section Undervisning
-  Salsundervisning: 2020-09-01, 2020-09-
+  Salsundervisning: 2020-09-01, 2020-10-01
   section Labbar
   Labbdugga: LD, 2020-09-08, 1d
   Labb 1 FTIR: L1, 2020-09-14, 1d

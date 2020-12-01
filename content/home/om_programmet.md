@@ -38,6 +38,8 @@ design:
 
 - På **[programhemsidan](https://www.oru.se/utbildning/program/analysvetenskapligt-program-i-kemi-med-inriktning-mot-forensik/)** hittar du mer information om programmet och kurserna.
 
+- Kursplaner kan ni söka genom denna **[länk](https://www.oru.se/utbildning/jag-ar-student/kurs--och-utbildningsplaner/)**
+
 - Vill du repetera grundläggande matematikkunskaper? **[Här](https://www.oru.se/institutioner/naturvetenskap-och-teknik/amnen/matematik/repetera-matematik/)** hittar du material.
 
 {{% alert note %}}
