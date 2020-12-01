@@ -28,6 +28,8 @@ design:
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
+  section Undervisning
+  Salsundervisning: 2020-09-01, 2020-09-
   section Labbar
   Labbdugga: LD, 2020-09-08, 1d
   Labb 1 FTIR: L1, 2020-09-14, 1d
@@ -42,7 +44,7 @@ gantt
   Skriva färdig labbrapport 5: after L5, 5d
   section Skiftlig rapport
   Färdigställa skriftlig arbete: 2020-09-08, 2020-09-17
-  Granskare läser rapport och ger kommentarer (se instruktion): 2020-09-17, 2020-09-22
+  Granskare läser rapport och ger kommentarer (se instruktion nedan): 2020-09-17, 2020-09-22
   Reviderad rapport skickas till Thanh: 2020-09-22, 2020-09-25  
   section Statistik
   Individuell statistikuppgift: 2020-09-10, 2020-09-18
