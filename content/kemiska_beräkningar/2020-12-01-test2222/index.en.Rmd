@@ -1,0 +1,41 @@
+---
+title: test2222
+author: ''
+date: '2020-12-01'
+slug: test2222
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-01T13:35:28+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+```{r}
+
+library(leaflet)
+library(leaflet.extras)
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
+m  # Print the map
+
+```
+
+
+plotly
+```{r plotly, echo=FALSE, warning=FALSE}
+
+library(plotly)
+plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length)
+
+```
+
