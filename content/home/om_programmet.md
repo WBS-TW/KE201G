@@ -32,9 +32,9 @@ design:
 
 - **Material för vissa kursmoment hittar ni i översta menyn**
 
-- **Hitta kursschema i [Kronox](https://kronox.oru.se/index.jsp).**
+- Hitta kursschema i **[Kronox](https://kronox.oru.se/index.jsp).**
 
-- **På [Blackboard](https://idp.oru.se/oxauth/login.htm) hittar du kursmaterial samt kursanslag**
+- På **[Blackboard](https://idp.oru.se/oxauth/login.htm)** hittar du kursmaterial samt kursanslag
 
 - På **[programhemsidan](https://www.oru.se/utbildning/program/analysvetenskapligt-program-i-kemi-med-inriktning-mot-forensik/)** hittar du mer information om programmet och kurserna.
 
