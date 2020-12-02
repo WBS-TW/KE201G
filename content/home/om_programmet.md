@@ -30,11 +30,15 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Denna hemsida ger kompletterande information och undervisningsmaterial till det som ni får från föreläsningarna och genom Blackboard. _Material för vissa kursmoment hittar ni i översta menyn._
+<font size="6">
 
-- Hitta kursschema i **[Kronox](https://kronox.oru.se/index.jsp).**
+Denna hemsida ger kompletterande information och undervisningsmaterial till det som ni får från föreläsningarna och genom Blackboard. _Kursupplägget och material för vissa kursmoment hittar ni i översta menyn._
 
-- På **[Blackboard](https://idp.oru.se/oxauth/login.htm)** hittar du kursmaterial samt kursanslag
+ </font>
+ 
+- Hitta kursschema i **[Kronox](https://kronox.oru.se/index.jsp).** (kurskod är _KE201G_)
+
+- I **[Blackboard](https://idp.oru.se/oxauth/login.htm)** hittar du mer kursmaterial samt kursanslag
 
 - På **[programhemsidan](https://www.oru.se/utbildning/program/analysvetenskapligt-program-i-kemi-med-inriktning-mot-forensik/)** hittar du mer information om programmet och kurserna.
 

@@ -9287,7 +9287,7 @@ html[dir="rtl"] body {
   text-align: right; }
 
 .container {
-  max-width: 85%; }
+  max-width: 90%; }
 
 .dropdown-menu,
 nav#navbar-main li.nav-item {
