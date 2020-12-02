@@ -26,13 +26,13 @@ Att söka information i olika sammanhang är en mycket viktig del av kemistens a
 Det finns utmärkta råd och tips i kapitel 45-49, 58-63 i ´Practical skills in forensic sciences´ (Langford 3rd Ed)
 
 ## 2. Genomförande 
-En grundlig genomgång av källkritik, citering och informationssökning ges på föreläsningarna. Varje laborationsgrupp (jobba i par) väljer en uppgift från listan i kapitel 4. Det är inte innehållet som är viktigt i denna rapport utan hur information refereras till och den skriftliga sammanställningen. För att söka information om uppgiften har du alla bibliotekets databaser till ditt förfogande. Givetvis kan andra källor på internet användas men då är det viktigt att vara källkritisk eftersom kvaliteten på informationen kan variera högst betydligt. 
+En grundlig genomgång av källkritik, citering och informationssökning ges på föreläsningarna. Varje laborationsgrupp (jobba i par) väljer en uppgift från listan i [kapitel 4](#uppgifter). Det är inte innehållet som är viktigt i denna rapport utan hur information refereras till och den skriftliga sammanställningen. För att söka information om uppgiften har du alla bibliotekets databaser till ditt förfogande. Givetvis kan andra källor på internet användas men då är det viktigt att vara källkritisk eftersom kvaliteten på informationen kan variera högst betydligt. 
 
 Vid författande av rapporter i olika sammanhang är det mycket viktigt att presentera alla källor som används på ett korrekt sätt. Det är **inte tillåtet** att kopiera eller låna (plagiera) stycken eller bilder ur andra texter utan att referera till ursprungskällan. Här varierar det oerhört mycket mellan olika discipliner och sub-discipliner. 
 
 För den här uppgiften används antingen numrering eller det sk Harvardsystemet. Observera att formatmallar som finns i t.ex. Word inte alltid är korrekt. Exemplet nedan visar hur man citerar en artikel, en bok samt en hemsida med de två systemen
 
-### 2.1 Numrering (Vancouver) av referenser 
+### 2.1 Numrering av referenser: Vancouversystemet
 I texten numreras referenserna från 1 och framåt i den ordning som de kommer i texten. När ett arbete väl numrerats så behålls det genom hela texten. Ett exempel: 
 
 ”För att mäta halten biotillgänglig koppar användes jonbytesteknik (1) i kombination med centrifugering enligt (2) vilket resulterade i den bästa precisionen (3).”
@@ -44,7 +44,7 @@ I referenslistan anges sedan:
 3 Karlsson, S. 2011. Naturvårdsverkets hemsida http://www.naturvardsverket.se/Stod-i-miljoarbetet/Yttranden-2011. Tillgänglig 2013-06-01.  
 
 
-### 2.2 Harvardsystemet 
+### 2.2 Numrering av referenser: Harvardsystemet 
 ”För att mäta halten biotillgänglig koppar användes jonbytesteknik (Hult m fl, 1989) i kombination med centrifugering enligt Pettersson (2009) vilket resulterade i den bästa precisionen (Karlsson 2011).”
 
 I referenslistan anges sedan:
@@ -63,7 +63,7 @@ Resultaten från informationsinhämtningen sammanställs i en skriftlig rapport 
 -	Den skall innehålla minst 3 och högst 10 referenser. 
 
 
-## 4. Uppgifter 
+## 4. Uppgifter {#uppgifter}
 För rapporten ska en uppgift väljas. Nedan finns några förslag. Därefter söker ni information om ämnet och skriver rapporten. 
 
 ### 4.1 Analytisk kemi 
