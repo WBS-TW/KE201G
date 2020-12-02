@@ -32,9 +32,9 @@ En grundlig genomgång av källkritik, citering och informationssökning ges på
 
 Vid författande av rapporter i olika sammanhang är det mycket viktigt att presentera alla källor som används på ett korrekt sätt. Det är **inte tillåtet** att kopiera eller låna (plagiera) stycken eller bilder ur andra texter utan att referera till ursprungskällan. Här varierar det oerhört mycket mellan olika discipliner och sub-discipliner. 
 
-För den här uppgiften används antingen numrering eller det sk Harvardsystemet. Observera att formatmallar som finns i t.ex. Word inte alltid är korrekt. Exemplet nedan visar hur man citerar en artikel, en bok samt en hemsida med de två systemen
+För den här uppgiften används antingen [numrering](#vancouver) eller det sk [Harvard](#harvard)systemet. Observera att formatmallar som finns i t.ex. Word inte alltid är korrekt. Exemplet nedan visar hur man citerar en artikel, en bok samt en hemsida med de två systemen
 
-### 2.1 Numrering av referenser: Vancouversystemet
+### 2.1 Numrering av referenser: Vancouversystemet {#vancouver}
 I texten numreras referenserna från 1 och framåt i den ordning som de kommer i texten. När ett arbete väl numrerats så behålls det genom hela texten. Ett exempel: 
 
 ”För att mäta halten biotillgänglig koppar användes jonbytesteknik (1) i kombination med centrifugering enligt (2) vilket resulterade i den bästa precisionen (3).”
@@ -46,7 +46,7 @@ I referenslistan anges sedan:
 3 Karlsson, S. 2011. Naturvårdsverkets hemsida http://www.naturvardsverket.se/Stod-i-miljoarbetet/Yttranden-2011. Tillgänglig 2013-06-01.  
 
 
-### 2.2 Numrering av referenser: Harvardsystemet 
+### 2.2 Numrering av referenser: Harvardsystemet {#harvard}
 ”För att mäta halten biotillgänglig koppar användes jonbytesteknik (Hult m fl, 1989) i kombination med centrifugering enligt Pettersson (2009) vilket resulterade i den bästa precisionen (Karlsson 2011).”
 
 I referenslistan anges sedan:
@@ -102,7 +102,7 @@ Tips på sökord: Elemental analysis, mineral composition
 ### 4.3 Miljö 
 
 **A)** Vi exponeras för olika ämnen i varierande grad var vi än befinner oss. En vanlig fråga är: Vilka grundämnen finns i vanligt damm som vi har hemma och hur analyserar vi det? 
-Tips på sökord: Dust, elements, household 
+Tips på sökord: indoor dust, elements, household
 
 **B)** I många sammanhang glömmer vi bort att radioaktivitet är en fullständigt naturlig del av vår livsmiljö. Vilka grundämnen är radioaktiva? Vilka av dem dominerar bakgrundsstrålningen i Sverige? 
 Tips på sökord: Radioactivity, background radiation, environmental radioactivity, bedrock 
