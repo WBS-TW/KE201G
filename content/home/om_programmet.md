@@ -30,7 +30,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Denna hemsida ger kompletterande information och undervisningsmaterial till de som ni får genom föreläsningarna och genom Blackboard. _Material för vissa kursmoment hittar ni i översta menyn._
+Denna hemsida ger kompletterande information och undervisningsmaterial till det som ni får från föreläsningarna och genom Blackboard. _Material för vissa kursmoment hittar ni i översta menyn._
 
 - Hitta kursschema i **[Kronox](https://kronox.oru.se/index.jsp).**
 
