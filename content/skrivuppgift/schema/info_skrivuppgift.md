@@ -25,6 +25,8 @@ Att söka information i olika sammanhang är en mycket viktig del av kemistens a
 
 Det finns utmärkta råd och tips i kapitel 45-49, 58-63 i ´Practical skills in forensic sciences´ (Langford 3rd Ed)
 
+<br>
+
 ## 2. Genomförande 
 En grundlig genomgång av källkritik, citering och informationssökning ges på föreläsningarna. Varje laborationsgrupp (jobba i par) väljer en uppgift från listan i [kapitel 4](#uppgifter). Det är inte innehållet som är viktigt i denna rapport utan hur information refereras till och den skriftliga sammanställningen. För att söka information om uppgiften har du alla bibliotekets databaser till ditt förfogande. Givetvis kan andra källor på internet användas men då är det viktigt att vara källkritisk eftersom kvaliteten på informationen kan variera högst betydligt. 
 
@@ -55,6 +57,7 @@ Pettersson, C. 2009. Separation av lösta metallspecies med hjälp av centrifuge
 
 Tänk på att referenserna i referenslistan är i bokstavsordning enligt efternamnet på första författaren och ej i ordningen som de förekommer i texten. För fler exempel och mer detaljerad beskrivning se kap. 45 i Langford.
 
+<br>
 
 ## 3. Rapport 
 Resultaten från informationsinhämtningen sammanställs i en skriftlig rapport och följande gäller: 
@@ -62,6 +65,7 @@ Resultaten från informationsinhämtningen sammanställs i en skriftlig rapport 
 -	Rapporten ska omfatta 2-4 sidor (A4, 12 punkters typsnitt, 1,5 i radavstånd, 2.5 cm marginaler). 
 -	Den skall innehålla minst 3 och högst 10 referenser. 
 
+<br>
 
 ## 4. Uppgifter {#uppgifter}
 För rapporten ska en uppgift väljas. Nedan finns några förslag. Därefter söker ni information om ämnet och skriver rapporten. 
@@ -92,7 +96,7 @@ Tips på sökord: Elemental analysis, mineral composition
 
 **E)** Olja kan med kemisk analys visa ett fingeravtryck som avslöjar dess härkomst. Beskriv hur man kan binda spår av olja till en brottsplats. Tips på sökord: oil, origin, crime scene, chemical analysis, oil spill 
 
-**F)**Vad händer med droger, eller otillåtna substanser (illicit drugs), när de lämnar kroppen? Vilka otillåtna ämnen påträffas i miljön? Tips på sökord: illicit drugs, drugs of abuse, waste water, environment
+**F)** Vad händer med droger, eller otillåtna substanser (illicit drugs), när de lämnar kroppen? Vilka otillåtna ämnen påträffas i miljön? Tips på sökord: illicit drugs, drugs of abuse, waste water, environment
 
 
 ### 4.3 Miljö 
@@ -107,6 +111,7 @@ Tips på sökord: Radioactivity, background radiation, environmental radioactivi
 
 **D)** På vilka olika sätt kan barn exponeras för hormonstörande kemikalier? Tips på sökord: Endocrine disruptors, bisphenol-A, children, exposure
 
+<br>
 
 ## 5. Redovisning 
 Det är vanligt att peers (kollegor, jämlikar) granskar ett arbete innan publicering för att försäkra om originalitet, vetenskaplighet, god kvalitet, korrekt språkbruk etc. Ni ska skicka er färdiga rapport till varandra i Blackboard enligt ett schema som ni får av kursansvarig. Ni ska alltså vara varandras granskare. Det ni ska granska är: 
@@ -119,6 +124,6 @@ Det är vanligt att peers (kollegor, jämlikar) granskar ett arbete innan public
 - Allmänt språkbruk och meningsbyggnad
 - förstår man texten, har fullständiga meningar använts, konsekvent tempus, etc.
 
-Ni behöver inte kommentera fakta och innehåll denna gång! 
+_Ni behöver inte kommentera fakta och innehåll denna gång!_
 
 
