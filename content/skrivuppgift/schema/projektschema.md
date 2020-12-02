@@ -47,7 +47,7 @@ experience:
   date_start: "0001-01-03"
   description: Ni ska läsa varandras rapporter och ge kommentarer (se nedan del om "Informationssökning och rapportering").
 
-- title: "DEADLINE: 21 Sept, 2020 -  Återkoppling ges på rapport"
+- title: "DEADLINE: 21 Sept, 2020 -  Återkoppling på rapport"
   company: "2020-09-21"
   date_end: "0001-01-03"
   date_start: "0001-01-02"
