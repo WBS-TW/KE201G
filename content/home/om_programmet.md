@@ -11,6 +11,12 @@ diagram: true
 # This file represents a page section.
 headless: true
 
+tags:
+- analysvetenskap
+- forensik
+- analytisk kemi
+- statistik
+
 # Order that this section appears on the page.
 weight: 1
 

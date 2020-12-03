@@ -2,24 +2,32 @@
 title: plotly
 author: ''
 date: '2020-12-01'
-slug:
+slug: te2
 categories: []
-tags: ["Laboration", "Kemi", "FTIR", "Forensik", "Laborationsrapport"]
+tags: []
 subtitle: ''
 summary: ''
 authors: []
 lastmod: '2020-12-01T13:35:28+01:00'
 featured: no
+output:
+  blogdown::html_page:
+    toc: false
 image:
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
+runtime: shiny
 ---
 
+```{r startup}
 
-- Laborationsrapporter ska skickas in till labbhandledare inom 5 arbetsdagar efter avslutad labbmoment.
-- Senast 15 arbetsdagar efter kursen är slut så bör alla labbrapporter vara godkända. Sen inlämning efter detta datum kan resultera i att labbhandledare inte rättar och godkänner labbrapporten förrän vid nästa kurstillfälle.
+library(shiny)
+library(widgetframe)
+```
+
+
 
 ```{r}
 
@@ -41,4 +49,10 @@ library(plotly)
 plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length)
 
 ```
+
+
+<iframe height="1000" width="100%" frameborder="no" src="https://wbs-tw.shinyapps.io/CPquant-Shiny/"> </iframe>
+
+
+
 

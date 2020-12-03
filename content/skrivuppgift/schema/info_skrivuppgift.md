@@ -9,6 +9,18 @@ active: true
 # This file represents a page section.
 headless: true
 
+tags:
+- Skriftlig uppgift
+- rapport
+- referenser
+- miljö
+- forensik
+- kemi
+- analytisk kemi
+- doping
+- narkotika 
+ 
+
 # Order that this section appears on the page.
 weight: 2
 
@@ -37,7 +49,7 @@ För den här uppgiften används antingen [numrering](#vancouver) eller det sk [
 ### 2.1 Numrering av referenser: Vancouversystemet {#vancouver}
 I texten numreras referenserna från 1 och framåt i den ordning som de kommer i texten. När ett arbete väl numrerats så behålls det genom hela texten. Ett exempel: 
 
-”För att mäta halten biotillgänglig koppar användes jonbytesteknik (1) i kombination med centrifugering enligt (2) vilket resulterade i den bästa precisionen (3).”
+”För att mäta halten biotillgänglig koppar användes jonbytesteknik (1) i kombination med centrifugering enligt Pettersson (2) vilket resulterade i den bästa precisionen (3).”
 
 I referenslistan anges sedan: 
 

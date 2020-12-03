@@ -6,6 +6,12 @@ widget: blank
 # Activate this widget? true/false
 active: true
 
+# tags
+tags:
+- laboration
+- schema
+- projekt
+
 diagram: true
 math: true
 
@@ -30,6 +36,7 @@ design:
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
+  excludes weekdays saturday,sunday
   
   section Undervisning
   Salsundervisning: 2020-09-01, 2020-10-01
