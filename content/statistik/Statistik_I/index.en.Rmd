@@ -33,6 +33,11 @@ library(widgetframe)
 
 library(leaflet)
 library(leaflet.extras)
+library(tidyverse)
+library(gganimate)
+library(ungeviz)
+library(plotly)
+
 
 m <- leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
@@ -51,7 +56,16 @@ plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length)
 ```
 
 
+Shiny
 <iframe height="1000" width="100%" frameborder="no" src="https://wbs-tw.shinyapps.io/CPquant-Shiny/"> </iframe>
+
+
+
+Paste Ungeviz gif
+![](test.gif)
+
+
+
 
 
 

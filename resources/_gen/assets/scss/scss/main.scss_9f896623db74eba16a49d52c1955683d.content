@@ -9286,6 +9286,7 @@ div.chart {
 html[dir="rtl"] body {
   text-align: right; }
 
+/* https://github.com/gcushen/hugo-academic/issues/147 */
 .container {
   max-width: 90%; }
 

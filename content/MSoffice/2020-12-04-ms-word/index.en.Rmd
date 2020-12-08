@@ -1,0 +1,21 @@
+---
+title: MS Word
+author: ''
+date: '2020-12-04'
+slug: ms-word
+categories: []
+tags:
+  - word
+  - excel
+  - powerpoint
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-04T13:15:29+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---

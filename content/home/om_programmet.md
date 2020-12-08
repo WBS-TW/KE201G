@@ -11,11 +11,8 @@ diagram: true
 # This file represents a page section.
 headless: true
 
-tags:
-- analysvetenskap
-- forensik
-- analytisk kemi
-- statistik
+categories: ["R"]
+tags: ["analysvetenskap", "forensik", "analytisk kemi", "statistik"]
 
 # Order that this section appears on the page.
 weight: 1
@@ -26,14 +23,15 @@ subtitle: "_____"
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
-    image_darken: 0.6
-    image_parallax: true
-    image_position: center
-    image_size: cover
+#    image: headers/Oru_logo_rgb.png
+#    image_darken: 0.3
+#    image_parallax: true
+#    image_position: center
+#    image_size: cover
     text_color_light: true
+    color: 'grey'
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+     padding: ["20px", "0", "20px", "0"]
 ---
 
 <font size="6">
