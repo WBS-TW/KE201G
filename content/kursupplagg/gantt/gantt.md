@@ -19,7 +19,7 @@ math: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 2
+weight: 1
 
 title: Ganttschema med överblick över kursmoment
 
@@ -31,8 +31,8 @@ design:
 ## Use https://mermaid-js.github.io/mermaid-live-editor/ to modify mermaid gantt
 ---
 
-Exakta datum för varje kursmoment finns i Kronox: https://kronox.oru.se/ (sök på kurskoden KE201G)
-
+Exakta datum för varje kursmoment finns i Kronox: https://kronox.oru.se/ (sök på kurskoden KE201G). <br>
+<span style="background-color: #FF0000">Rödmarkerade</span> är obligatoriska moment inom kursen.
 
 ```mermaid
 gantt
@@ -64,3 +64,5 @@ gantt
   Individuell statistikuppgift: crit, 2020-09-10, 2020-09-18
   Klassuppgift - presentation: 2020-09-24, 1d
 ```
+Vill du veta mer om Ganttschema? Klicka [här](https://sv.wikipedia.org/wiki/Gantt-schema)
+<br>
