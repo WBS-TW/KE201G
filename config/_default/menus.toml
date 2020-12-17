@@ -24,8 +24,8 @@
   weight = 4
 
 [[main]]
-  name = "Kemiska beräkningar"
-  url = "/kemiska_berakningar"
+  name = "Repetera kemi"
+  url = "/kemirepetition"
   weight = 5
 
 [[main]]

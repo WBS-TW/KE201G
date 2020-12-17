@@ -1,0 +1,24 @@
+---
+title: Kemiska storheter och enheter
+author: admin
+date: '2020-12-17'
+slug: kemiska-storheter-och-enheter
+categories: []
+tags:
+  - Allmän kemi
+  - SI enheter
+  - IUPAC
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-17T13:03:52+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+https://www.naturvetenskap.org/kemi/gymnasiekemi/kemiska-berakningar/

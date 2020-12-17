@@ -1,0 +1,72 @@
+---
+title: Sidhänvisningar
+author: admin
+date: '2020-12-17'
+slug: sidhänvisningar
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-17T13:23:19+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Nedan finns **en del** av den litteratur som ingår i kursen.
+
+```{r sidor, warning=FALSE, echo=FALSE, message=FALSE}
+
+
+titles <- c("Moment",
+            "Practical skills in forensic sciences 3rd ed",
+            "General Chemistry (11th ed)")
+informationsokning <- c("Informationssökning och källhänvisning",
+                        "Kapitel: 45-47, 58, 61, 62",
+                        "")
+statistik <- c("Statistik",
+               "Analytiska mätningar kap. 3. Beskrivande statistik kap. 55. Använda excel för beräkningar kap. 49 och Box 55.3 (kapitel 55). Presentation av beskrivande statistik kap. 53, 54",
+               "")
+organiskkemi <- c("Organisk forensisk kemi",
+                  "Bulk Drug Analysis, Analysis of fires and explosions, kap 39. Spektroskopi, FTIR: Kap 44, kap 16 dem tre första sidorna, kap 19 GC: s. 135-142",
+                  "")
+kemiskagrunder1 <- c("Kemiska grunder & Att förhöra atomer och molekyler 1",
+                     "",
+                     "Kapitel 1 (rekommenderade uppgifter: 7, 9, 12, 19, 22, 27, 28, 30, 32, 38, 48, 54, 62). Kapitel 2 (rekommenderade uppgifter: 2, 8, 12, 13, 23, 26, 28, 33, 39, 41, 44, 47, 55, 58, 60, 64, 67, 71, 85)")
+
+kemiskagrunder2 <- c("Kemiska grunder & Att förhöra atomer och molekyler 2",
+                     "",
+                     "Kapitel 3: (rekommenderade uppgifter: 1, 4, 5, 8, 12, 16, 18, 21, 29, 33, 38, 51, 53, 57, 60, 62, 68). Kapitel 8, sid 301-306, 316-320.")
+
+oorganiskforensik <- c("Oorganisk forensik",
+                       "",
+                       "Ovanstående och föreläsningsunderlag.")
+biologiskforensik <- c("Biologisk forensik",
+                       "",
+                       "Kapitel 30-32")
+biokemiskforensik <- c("Biokemisk forensik",
+                       "",
+                       "Kapitel 13")
+
+
+table <- rbind(informationsokning,
+               statistik,
+               organiskkemi,
+               kemiskagrunder1,
+               kemiskagrunder2,
+               oorganiskforensik,
+               biologiskforensik,
+               biokemiskforensik)
+
+colnames(table) <- titles
+rownames(table) <- NULL
+table <- as.data.frame(table)
+
+knitr::kable(table)
+
+```
+
