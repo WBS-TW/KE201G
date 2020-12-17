@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Tips om MS Office programmen (Word, Excel)
+title: Studieteknik och studieverktyg
 type: widget_page
 ---

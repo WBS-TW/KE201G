@@ -35,8 +35,8 @@
   
   
 [[main]]
-  name = "Word/Excel"
-  url = "/MSoffice"
+  name = "Studieteknik"
+  url = "/studieteknik"
   weight = 7
 
 [[main]]

@@ -1,19 +1,16 @@
 ---
-title: MS Word
+title: Kemiska beräkningar
 author: ''
-date: '2020-12-04'
-slug: ms-word
+date: '2020-12-17'
+slug: kemiska-beräkningar
 categories: []
 tags:
-  - Word
-  - Excel
-  - Powerpoint
-  - Rapport
-  - Presentationsteknik
+  - Allmän kemi
+  - Kemisk beräkning
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2020-12-04T13:15:29+01:00'
+lastmod: '2020-12-17T15:09:59+01:00'
 featured: no
 image:
   caption: ''
