@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-Nedan finns **en del** av den litteratur som ingår i kursen.
+Nedan finns **en del** av den litteratur som ingår i kursen. Det rekommenderas att läsa på dessa avsnitt innan relaterade kursmoment startar.
 
 ```{r sidor, warning=FALSE, echo=FALSE, message=FALSE}
 

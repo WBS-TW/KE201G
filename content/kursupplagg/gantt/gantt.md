@@ -24,7 +24,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: Ganttschema med överblick över kursmoment
+title: Ganttschema med preliminära datum för varje kursmoment
 
 design:
   columns: "1"
@@ -36,7 +36,7 @@ design:
 
 ---
 
-Exakta datum för varje kursmoment finns i Kronox: https://kronox.oru.se/ (sök på kurskoden KE201G). <br>
+Uppdaterade datum för varje kursmoment finns i Kronox: https://kronox.oru.se/ (sök på kurskoden KE201G). <br>
 <span style="background-color: #FF0000">Rödmarkerade</span> är obligatoriska moment inom kursen.
 
 
