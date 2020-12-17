@@ -66,7 +66,7 @@ colnames(table) <- titles
 rownames(table) <- NULL
 table <- as.data.frame(table)
 
-knitr::kable(table)
+knitr::kable(table, format = "html")
 
 ```
 
