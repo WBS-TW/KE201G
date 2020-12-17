@@ -8,11 +8,20 @@ active: true
 
 # tags
 tags:
-- schema
-- analysvetenskap
-- analytisk kemi
-- forensik
-- projektarbete
+- Tidsplanering
+- Analysvetenskap
+- Forensik
+- Projektarbete
+- Analytisk kemi
+- Allmän kemi
+- Organisk kemi
+- Juridik
+- Biokemi
+- Biologi
+- Statistik
+- Doping
+- Narkotika
+- Miljöforensik
 
 # This file represents a page section.
 headless: true
@@ -31,6 +40,6 @@ design:
 ---
 
 Här ser du hur det föreslagna studieupplägget för programmet. 
-Kontakta gärna vår duktiga studievägledare [Ulla Stenlund](https://www.oru.se/personal/ulla_stenlund) för att individuell studieplan.
+Kontakta gärna vår studievägledare [Ulla Stenlund](https://www.oru.se/personal/ulla_stenlund) för att diskutera en individuell studieplan.
 
 ![Programoversikt](/media/programoversikt.png) 

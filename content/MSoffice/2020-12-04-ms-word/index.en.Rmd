@@ -5,9 +5,11 @@ date: '2020-12-04'
 slug: ms-word
 categories: []
 tags:
-  - word
-  - excel
-  - powerpoint
+  - Word
+  - Excel
+  - Powerpoint
+  - Rapport
+  - Presentationsteknik
 subtitle: ''
 summary: ''
 authors: []

@@ -17,7 +17,8 @@ title: Tidsschema
 tags:
 - Projektarbete
 - Miljöförorening
-- Miljö
+- Miljöforensik
+- Miljöanalys
 - Doping
 - Narkotika
 - Analytisk kemi
@@ -38,10 +39,10 @@ experience:
   company: "2020-09-08"
   date_end: "0001-01-05"
   date_start: "0001-01-04"
-  description: Varje grupp meddelar Thanh vilket ämne ni har valt att skriva från listan
+  description: Varje grupp meddelar Thanh vilket ämne ni har valt att skriva från listan i [kapitel 4](#uppgifter). 
   
 
-- title: "DEADLINE: 17 Sept, 2020  -  Rapport skickas till gruppen som ska granska"
+- title: "DEADLINE: 17 Sept, 2020  -  Rapport färdigställs och skickas till gruppen som ska granska"
   company: "2020-09-17"
   date_end: "0001-01-04"
   date_start: "0001-01-03"

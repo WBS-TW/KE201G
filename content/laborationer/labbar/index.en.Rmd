@@ -4,7 +4,17 @@ author: ''
 date: '2020-12-01'
 slug:
 categories: []
-tags: ["Laboration", "Kemi", "FTIR", "Forensik", "Laborationsrapport"]
+tags:
+  - Laboration
+  - Kemi
+  - FTIR
+  - Forensik
+  - Rapport
+  - Biologi
+  - Analytisk kemi
+  - Analysvetenskap
+  - Masspektrometri
+  - Kromatografi
 subtitle: ''
 summary: ''
 authors: []
@@ -17,9 +27,9 @@ image:
 projects: []
 ---
 
-
+- Varje student måste läsa in sig i laborationshandledningen innan det praktiska arbetet börjar. Ni måste själva skriva ut laborationshandledningen. 
 - Laborationsrapporter ska skickas in till labbhandledare inom 5 arbetsdagar efter avslutad labbmoment.
-- Senast 15 arbetsdagar efter kursen är slut så bör alla labbrapporter vara godkända. Sen inlämning efter detta datum kan resultera i att labbhandledare inte rättar och godkänner labbrapporten förrän vid nästa kurstillfälle.
+- Senast 15 arbetsdagar efter kursen är slut så bör alla labbrapporter vara godkända. __Sen inlämning__ kan medföra att labbhandledare inte rättar och godkänner labbrapporten förrän vid nästa kurstillfälle.
 
 ```{r}
 

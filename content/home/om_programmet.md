@@ -12,7 +12,12 @@ diagram: true
 headless: true
 
 categories: ["R"]
-tags: ["analysvetenskap", "forensik", "analytisk kemi", "statistik"]
+tags:
+- Analysvetenskap
+- Forensik
+- Analytisk kemi
+- Statistik
+- Miljöforensik
 
 # Order that this section appears on the page.
 weight: 1
@@ -36,7 +41,7 @@ design:
 
 <font size="6">
 
-Denna hemsida ger kompletterande information och undervisningsmaterial till det som ni får från föreläsningarna och genom Blackboard. _Kursupplägget och material för vissa kursmoment hittar ni i översta menyn._
+Denna hemsida innehåller kompletterande information och undervisningsmaterial till det som ni får från föreläsningarna och från Blackboard. _Kursupplägget och material för vissa kursmoment hittar ni i översta menyn._
 
  </font>
  

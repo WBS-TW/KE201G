@@ -8,9 +8,12 @@ active: true
 
 # tags
 tags:
-- laboration
-- schema
-- projekt
+- Laboration
+- Gantt
+- Projekt
+- Rapport
+- Praktiska moment
+- Statistik
 
 diagram: true
 math: true
@@ -28,11 +31,14 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 
-## Use https://mermaid-js.github.io/mermaid-live-editor/ to modify mermaid gantt
+# Use https://mermaid-js.github.io/mermaid-live-editor/ to modify mermaid gantt
+# A red vertical line will be shown to mark "today"
+
 ---
 
 Exakta datum för varje kursmoment finns i Kronox: https://kronox.oru.se/ (sök på kurskoden KE201G). <br>
 <span style="background-color: #FF0000">Rödmarkerade</span> är obligatoriska moment inom kursen.
+
 
 ```mermaid
 gantt
@@ -45,15 +51,15 @@ gantt
   section Labbar
   Labbdugga: crit, LD, 2020-09-08, 1d
   Labb 1 FTIR: crit, L1, 2020-09-14, 1d
-  Skriva färdig labbrapport 1: crit, after L1, 5d
+  Färdigställa labbrapport 1: crit, after L1, 5d
   Labb 2 ICP: crit, L2, 2020-09-15, 1d
-  Skriva färdig labbrapport 2: crit, after L2, 5d
+  Färdigställa labbrapport 2: crit, after L2, 5d
   Labb 3 GC: crit, L3, 2020-09-21, 1d
-  Skriva färdig labbrapport 3: crit, after L3, 5d
+  Färdigställa labbrapport 3: crit, after L3, 5d
   Labb 4 DNA: crit, L4, 2020-09-22, 1d
-  Skriva färdig labbrapport 4: crit, after L4, 5d
+  Färdigställa labbrapport 4: crit, after L4, 5d
   Labb 5 Hår: crit, L5, 2020-09-25, 1d 
-  Skriva färdig labbrapport 5: crit, after L5, 5d
+  Färdigställa labbrapport 5: crit, after L5, 5d
   
   section Skiftlig rapport
   Färdigställa skriftlig arbete: crit, 2020-09-08, 2020-09-17
@@ -64,5 +70,5 @@ gantt
   Individuell statistikuppgift: crit, 2020-09-10, 2020-09-18
   Klassuppgift - presentation: 2020-09-24, 1d
 ```
-Vill du veta mer om Ganttschema? Klicka [här](https://sv.wikipedia.org/wiki/Gantt-schema)
-<br>
+_Vill du veta mer om Ganttschema? Se [här](https://sv.wikipedia.org/wiki/Gantt-schema)_
+<br><br><br>

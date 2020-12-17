@@ -4,7 +4,8 @@ author: ''
 date: '2020-12-01'
 slug: te2
 categories: []
-tags: []
+tags:
+    - Statistik
 subtitle: ''
 summary: ''
 authors: []

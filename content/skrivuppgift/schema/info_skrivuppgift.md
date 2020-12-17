@@ -10,15 +10,14 @@ active: true
 headless: true
 
 tags:
-- Skriftlig uppgift
-- rapport
-- referenser
-- miljö
-- forensik
-- kemi
-- analytisk kemi
-- doping
-- narkotika 
+- Miljö
+- Miljöforensik
+- Forensik
+- Kemi
+- Analytisk kemi
+- Doping
+- Narkotika
+- Presentationsteknik
  
 
 # Order that this section appears on the page.
