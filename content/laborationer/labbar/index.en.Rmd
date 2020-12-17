@@ -1,6 +1,6 @@
 ---
-title: plotly
-author: ''
+title: Laborationer
+author: 'admin'
 date: '2020-12-01'
 slug:
 categories: []
@@ -17,38 +17,13 @@ tags:
   - Kromatografi
 subtitle: ''
 summary: ''
-authors: []
 lastmod: '2020-12-01T13:35:28+01:00'
-featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
-projects: []
+
 ---
 
 - Varje student måste läsa in sig i laborationshandledningen innan det praktiska arbetet börjar. Ni måste själva skriva ut laborationshandledningen. 
 - Laborationsrapporter ska skickas in till labbhandledare inom 5 arbetsdagar efter avslutad labbmoment.
 - Senast 15 arbetsdagar efter kursen är slut så bör alla labbrapporter vara godkända. __Sen inlämning__ kan medföra att labbhandledare inte rättar och godkänner labbrapporten förrän vid nästa kurstillfälle.
 
-```{r}
 
-library(leaflet)
-library(leaflet.extras)
-
-m <- leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
-m  # Print the map
-
-```
-
-
-plotly
-```{r plotly, echo=FALSE, warning=FALSE}
-
-library(plotly)
-plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length)
-
-```
 
