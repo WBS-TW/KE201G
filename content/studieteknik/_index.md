@@ -3,6 +3,6 @@
 #   caption: ""
 #   image: ""
 title: Studieteknik och studieverktyg
-summary: Laborationer
+summary: Studieteknik
 type: widget_page
 ---
