@@ -11,7 +11,7 @@ organizations:
 - name: MTM Research Centre
   url: ""
 role: Forskarassistent i kemi <br> 
-  Labhandledare FTIR
+  Labbhandledare FTIR
 superuser: false
 user_groups:
 - Lärare

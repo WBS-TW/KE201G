@@ -12,7 +12,7 @@ organizations:
   url: ""
 
 role: Forskare <br> 
-  Föreläser i grundläggande kemi
+  Föreläser i grundläggande kemi, labbhandledare
 superuser: false
 user_groups:
 - Lärare

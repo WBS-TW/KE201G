@@ -11,7 +11,7 @@ organizations:
 - name: MTM Research Centre
   url: ""
 role: Biträdande lektor i biokemi <br> 
-  Labhandledare DNA
+  Labbhandledare DNA
 superuser: false
 user_groups:
 - Lärare

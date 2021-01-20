@@ -11,7 +11,7 @@ organizations:
 - name: MTM Research Centre
   url: ""
 role: Doktorand i kemi <br> 
-  Labhandledare GC
+  Labbhandledare GC
 superuser: false
 user_groups:
 - Lärare
