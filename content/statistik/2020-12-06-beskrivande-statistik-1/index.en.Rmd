@@ -1,0 +1,79 @@
+---
+title: Beskrivande statistik 1
+author: ''
+date: '2021-01-02'
+slug: beskrivandestatistik1
+categories: []
+tags:
+    - Statistik
+subtitle: ''
+summary: 'Här beskrivs hur vi räknar olika beskrivande statistik'
+authors: []
+lastmod: ''
+featured: no
+output:
+  blogdown::html_page:
+    toc: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+runtime: shiny
+---
+
+```{r startup, echo=FALSE, warning=FALSE, message=FALSE}
+
+library(shiny)
+library(widgetframe)
+library(plotly)
+library(kableExtra)
+
+```
+
+
+
+Här använder vi det berömda [Iris](https://en.wikipedia.org/wiki/Iris_flower_data_set) dataset som introducerades av den berömda statistikern Ronald Fisher för att klassificera tre olika irisblommor (Iris setosa, Iris virginica och Iris versicolor) utifrån längden (eng. Length) och bredden (Width) för deras kronblad (Petal) och foderblad (Sepal). 
+
+```{r DT, echo=FALSE, warning=FALSE, message=FALSE}
+
+kable(iris) %>%
+  kable_styling(latex_options = "striped") %>%
+  scroll_box(height = "300px", width = "70%")
+
+
+```
+
+<br>
+
+
+Här ser ni ett grafisk
+```{r plotly, echo=FALSE, warning=FALSE, message=FALSE}
+
+
+plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length) %>%
+  plotly::add_markers()
+
+```
+
+
+
+<br>
+#Extramaterial
+
+
+
+Shiny
+<iframe height="1000" width="100%" frameborder="no" src="https://wbs-tw.shinyapps.io/CPquant-Shiny/"> </iframe>
+
+
+
+Paste Ungeviz gif
+![](test.gif)
+
+
+
+
+
+
+
