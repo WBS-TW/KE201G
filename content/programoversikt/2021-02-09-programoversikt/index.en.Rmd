@@ -1,0 +1,48 @@
+---
+title: Programöversikt
+author: ''
+date: '2021-02-09'
+slug: programoversikt
+categories: []
+tags:
+    - Kandidatexamen
+    - Examensarbete
+subtitle: ''
+summary: 'Hur många poäng läser man för att ta kandidatexamen i kemi?'
+authors: []
+lastmod: ''
+featured: no
+output:
+  blogdown::html_page:
+    toc: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+runtime: shiny
+---
+
+# Hur många poäng behöver man läsa för att kunna ta kanidatexamen i kemi?
+
+```{r}
+
+kurser <- data.frame(subject = c("Kemi", "Övrigt"),
+                 HP = c(90, 30))
+
+pie(kurser$HP, kurser$subject)
+
+```
+
+
+
+
+Paste programoversikt png
+![](programoversikt.png)
+
+
+
+
+
+
+
