@@ -11,12 +11,18 @@ tags:
   - Rapport
   - Presentationsteknik
 subtitle: ''
-summary: 'Hur man bäst använder Officeprogramment samt kombinerar med ett referenshanteringssystem'
+summary: 'Hur man bäst använder Officeprogramment samt användning av referenshanteringssystem'
 lastmod: '2020-12-01T13:35:28+01:00'
 ---
 
 
+# **Word**
 
-**Referenshanteringssystem**  
-- Endnote  
-- Zotero  
+
+# **Referenshanteringssystem**  
+- Endnote (betalprogram)  
+- Zotero (gratis)  
+- Mendeley (gratis)  
+
+  
+
