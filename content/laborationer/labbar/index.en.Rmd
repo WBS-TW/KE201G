@@ -15,15 +15,21 @@ tags:
   - Analysvetenskap
   - Masspektrometri
   - Kromatografi
-subtitle: ''
-summary: ''
+  - Spektroskopi
+  - DNA analys
+subtitle: "Information om laborationer, säkerhet och laborationshandledning"
+summary: "Information om laborationer, säkerhet och laborationshandledning"
 lastmod: '2020-12-01T13:35:28+01:00'
 
 ---
 
-- Varje student måste läsa in sig i laborationshandledningen innan det praktiska arbetet börjar. Ni måste själva skriva ut laborationshandledningen. 
-- Laborationsrapporter ska skickas in till labbhandledare inom 5 arbetsdagar efter avslutad labbmoment.
-- Senast 15 arbetsdagar efter kursen är slut så bör alla labbrapporter vara godkända. __Sen inlämning__ kan medföra att labbhandledare inte rättar och godkänner labbrapporten förrän vid nästa kurstillfälle.
+- Varje student måste läsa in sig i laborationshandledningen innan det praktiska arbetet börjar. Ni behöver själva skriva ut laborationshandledningen. 
+- Laborationsrapporter ska skickas in till labbhandledare inom 5 arbetsdagar efter avslutad labbmoment.  
+- Rättning av inlämnade laborationsrapporter sker vanligtvis inom 15 arbetsdagar.  
+- Senast 15 arbetsdagar efter kursen är slut så bör alla labbrapporter vara godkända. __Sen inlämning__ samt inlämning efter kursavslut kan medföra att labbhandledare inte rättar och godkänner labbrapporten förrän vid nästa kurstillfälle.  
+
+
+
 
 
 
