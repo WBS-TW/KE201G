@@ -55,8 +55,19 @@ Denna hemsida innehåller kompletterande information och undervisningsmaterial t
 
 - Vill du repetera grundläggande matematikkunskaper? **[Här](https://www.oru.se/institutioner/naturvetenskap-och-teknik/amnen/matematik/repetera-matematik/)** hittar du material.
 
-{{% alert note %}}
+{{< spoiler text="TIPS INFÖR KURSSTART!" >}}
+
+{{% callout note %}}
 Kom ihåg att registrera dig inför varje kurs!
 
-{{% /alert %}}
+{{% /callout %}}
+
+{{% callout note %}}
+Registrera gärna i vår [LinkedIn grupp](https://www.linkedin.com/groups/8429555/)
+
+{{% /callout %}}
+
+
+
+{{< /spoiler >}}
 
