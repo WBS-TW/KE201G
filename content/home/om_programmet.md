@@ -39,9 +39,9 @@ design:
      padding: ["20px", "0", "20px", "0"]
 ---
 
-<font size="6">
+<font size="5">
 
-Denna hemsida innehåller kompletterande information och undervisningsmaterial till det som ni får från föreläsningarna och från Blackboard. _Kursupplägget och material för vissa kursmoment hittar ni i översta menyn._
+Denna hemsida innehåller kompletterande information och undervisningsmaterial till det som ni får från föreläsningarna och från Blackboard. _Kursupplägget, material för vissa kursmoment samt programöversikt hittar ni i_ **övre menyn**.
 
  </font>
  
@@ -49,13 +49,13 @@ Denna hemsida innehåller kompletterande information och undervisningsmaterial t
 
 - I **[Blackboard](https://idp.oru.se/oxauth/login.htm)** hittar du mer kursmaterial samt kursanslag
 
-- På **[programhemsidan](https://www.oru.se/utbildning/program/analysvetenskapligt-program-i-kemi-med-inriktning-mot-forensik/)** hittar du mer information om programmet och kurserna.
+- På **[programhemsidan](https://www.oru.se/utbildning/program/analysvetenskapligt-program-i-kemi-med-inriktning-mot-forensik/)** hittar du mer allmän information om programmet och kurserna.
 
 - Kursplaner kan ni söka genom denna **[länk](https://www.oru.se/utbildning/jag-ar-student/kurs--och-utbildningsplaner/)**
 
 - Vill du repetera grundläggande matematikkunskaper? **[Här](https://www.oru.se/institutioner/naturvetenskap-och-teknik/amnen/matematik/repetera-matematik/)** hittar du material.
 
-{{< spoiler text="TIPS INFÖR KURSSTART!" >}}
+{{< spoiler text="KLICKA HÄR FÖR TIPS INFÖR KURSSTART!" >}}
 
 {{% callout note %}}
 Kom ihåg att registrera dig inför varje kurs!
@@ -63,7 +63,7 @@ Kom ihåg att registrera dig inför varje kurs!
 {{% /callout %}}
 
 {{% callout note %}}
-Registrera gärna i vår [LinkedIn grupp](https://www.linkedin.com/groups/8429555/)
+Registrera gärna i vår [LinkedIn grupp](https://www.linkedin.com/groups/8429555/) som är en social nätverk för yrkesprofessioner. Ett bra sätt att lära sig om yrkeslivet och få kontakt med andra inom yrket.
 
 {{% /callout %}}
 
