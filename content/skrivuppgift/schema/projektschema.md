@@ -37,26 +37,32 @@ date_format: 2006-01-02
 experience:
 - title: "DEADLINE: 8 Sept, 2020  -  Val av ämne"
   company: "2020-09-08"
-  date_end: "0001-01-05"
-  date_start: "0001-01-04"
+  date_end: "0001-01-06"
+  date_start: "0001-01-05"
   description: Varje grupp meddelar Thanh vilket ämne ni har valt att skriva från listan i [kapitel 4](#uppgifter). 
   
 
 - title: "DEADLINE: 17 Sept, 2020  -  Rapport färdigställs och skickas till gruppen som ska granska"
   company: "2020-09-17"
-  date_end: "0001-01-04"
-  date_start: "0001-01-03"
+  date_end: "0001-01-05"
+  date_start: "0001-01-04"
   description: Ni ska läsa varandras rapporter och ge kommentarer (se nedan del om "Informationssökning och rapportering").
 
 - title: "DEADLINE: 21 Sept, 2020 -  Återkoppling på rapport"
   company: "2020-09-21"
-  date_end: "0001-01-03"
-  date_start: "0001-01-02"
+  date_end: "0001-01-04"
+  date_start: "0001-01-03"
   description: Granskad rapport skickas med kommentarer och förslag på förbättringar till författarna
   
 - title: "DEADLINE: 25 Sept, 2020  -   Reviderad rapport skickas till Thanh"
   company: "2020-09-25"
+  date_end: "0001-01-03"
+  date_start: "0001-01-02"
+  description: Skicka färdig rapport via Urkund. Skicka en word fil av rapporten till thanh.wang.oru@analys.urkund.se. Skicka även rapporten via blackboard (ifall den fastnar i urkund).
+
+- title: "PRESENTATION: 27 Sept, 2020"
+  company: "2020-09-27: kl 09:15 - 12:00"
   date_end: "0001-01-02"
   date_start: "0001-01-01"
-  description: Skicka färdig rapport via Urkund. Skicka en word fil av rapporten till thanh.wang.oru@analys.urkund.se. Skicka även rapporten via blackboard (ifall den fastnar i urkund).
+  description: Information om tider kommer senare.
 ---

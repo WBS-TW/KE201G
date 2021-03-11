@@ -59,12 +59,14 @@ Denna hemsida innehåller kompletterande information och undervisningsmaterial t
 
 {{% callout note %}}
 Kom ihåg att registrera dig inför varje kurs!
+{{% /callout %}}
 
+{{% callout note %}}
+Nyttig information om universitetsstudier hittar du i universitetets hemsida i [Mina studier](https://www.oru.se/utbildning/jag-ar-student/mina-studier/). Bland annat hur du kopplar upp dig mot wifi nätverket och vilka rättigheter du har som student.
 {{% /callout %}}
 
 {{% callout note %}}
 Registrera gärna i vår [LinkedIn grupp](https://www.linkedin.com/groups/8429555/) som är en social nätverk för yrkesprofessioner. Ett bra sätt att lära sig om yrkeslivet och få kontakt med andra inom yrket.
-
 {{% /callout %}}
 
 
