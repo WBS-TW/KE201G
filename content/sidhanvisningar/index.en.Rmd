@@ -47,11 +47,11 @@ oorganiskforensik <- c("Oorganisk forensik",
                        "",
                        "Ovanstående och föreläsningsunderlag.")
 biologiskforensik <- c("Biologisk forensik",
-                       "",
-                       "Kapitel 30-32")
+                       "Kapitel 30-32",
+                       "")
 biokemiskforensik <- c("Biokemisk forensik",
-                       "",
-                       "Kapitel 13")
+                       "Kapitel 13",
+                       "")
 
 
 table <- rbind(informationsokning,
