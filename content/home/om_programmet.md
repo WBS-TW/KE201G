@@ -47,7 +47,7 @@ Denna hemsida innehåller kompletterande information och undervisningsmaterial t
  
 - Hitta kursschema i **[Kronox](https://kronox.oru.se/index.jsp).** (kurskod är _KE201G_)
 
-- I **[Blackboard](https://idp.oru.se/oxauth/login.htm)** hittar du mer kursmaterial samt kursanslag
+- I **[Blackboard](https://www.oru.se/utbildning/jag-ar-student/mina-studier/blackboard-for-studenter/)** hittar du mer kursmaterial samt kursanslag
 
 - På **[programhemsidan](https://www.oru.se/utbildning/program/analysvetenskapligt-program-i-kemi-med-inriktning-mot-forensik/)** hittar du mer allmän information om programmet och kurserna.
 

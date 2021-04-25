@@ -24,7 +24,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: Ganttschema med preliminära datum för varje kursmoment
+title: Ganttschema med datum för varje kursmoment
 
 design:
   columns: "1"
@@ -64,11 +64,11 @@ gantt
   section Skiftlig rapport
   Färdigställa skriftlig arbete: crit, 2020-09-08, 2020-09-17
   Granskare läser rapport och ger kommentarer (se instruktion nedan): crit, 2020-09-17, 2020-09-22
-  Reviderad rapport skickas till Thanh: crit, 2020-09-22, 2020-09-25  
+  Revidera rapport och skicka till Thanh innan deadline: crit, 2020-09-22, 2020-09-25  
   
   section Statistik
   Individuell statistikuppgift: crit, 2020-09-10, 2020-09-18
   Klassuppgift - presentation: 2020-09-24, 1d
 ```
-_Vill du veta mer om Ganttschema? Se [här](https://sv.wikipedia.org/wiki/Gantt-schema)_
+_Vill du veta mer om vad Ganttschema är? Se [här](https://sv.wikipedia.org/wiki/Gantt-schema)_
 <br><br><br>

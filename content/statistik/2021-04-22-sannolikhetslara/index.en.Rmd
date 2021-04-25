@@ -1,0 +1,155 @@
+---
+title: Sannolikhetslära
+author: admin
+date: '2021-01-01'
+slug: sannolikhetslara
+categories: []
+tags:
+  - Sannolikhet
+  - Statistik
+subtitle: ''
+summary: 'Vad är sannolikhet?'
+authors: []
+lastmod: ''
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+output: 
+  flexdashboard::flex_dashboard:
+    theme: united
+---
+
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(plotly)
+library(DT)
+library(crosstalk)
+library(htmlwidgets)
+library(htmltools)
+library(remedy)
+
+set.seed(1234)
+options(digits = 1)
+
+```
+
+
+
+A. Sannolikhet {.storyboard}
+=========================================
+### A1. Kast med tärning
+```{r dice, warning=FALSE, echo=FALSE, message=FALSE}
+
+dice_roll <- function(roll) {
+  roll <- enquo(roll)
+  dice <- 1:6
+  data <- tibble(Sida = sample(dice, !!roll, replace = TRUE))
+  data <- data %>%
+  group_by(Sida) %>%
+  summarise(Antal = n()) %>%
+  ungroup() %>%
+  mutate(Procent = Antal/sum(Antal)*100)
+  return(data)
+  }
+
+dice_roll_6 <- dice_roll(6)
+
+dice_roll_50 <- dice_roll(50)
+
+dice_roll_1000 <- dice_roll(1000)
+
+dice_roll_100000 <- dice_roll(100000)
+
+marker_format <- list(line = list(color = "black", width = 1))
+tick <- list(
+  autotick = FALSE,
+  ticks = "outside",
+  tick0 = 0,
+  dtick = 1,
+  ticklen = 5,
+  tickwidth = 2,
+  tickcolor = toRGB("blue")
+)
+
+bscols(widths = c(3,3,3,3),
+plot_ly(dice_roll_6) %>%
+  add_bars(x = ~Sida, y = ~Antal, marker = marker_format, text = ~Procent, hoverinfo = "text") %>% 
+  config(displayModeBar = F) %>% 
+  layout(title = "6 kast", xaxis = tick),
+plot_ly(dice_roll_50) %>%
+  add_bars(x = ~Sida, y = ~Antal, marker = marker_format, text = ~Procent, hoverinfo = "text") %>% 
+  config(displayModeBar = F) %>% 
+  layout(title = "50 kast", xaxis = tick),
+plot_ly(dice_roll_1000) %>%
+  add_bars(x = ~Sida, y = ~Antal, marker = marker_format, text = ~Procent, hoverinfo = "text") %>% 
+  config(displayModeBar = F) %>% 
+  layout(title = "1000 kast", xaxis = tick),
+plot_ly(dice_roll_100000) %>%
+  add_bars(x = ~Sida, y = ~Antal, marker = marker_format, text = ~Procent, hoverinfo = "text") %>% 
+  config(displayModeBar = F) %>% 
+  layout(title = "100000 kast", xaxis = tick)
+)
+
+
+
+
+```
+
+*** 
+
+Ett klassiskt exempel för att illustrera sannolikhet är att slå en tärning. 
+En tärning har 6 lika sidor med värdena 1, 2, 3, 4, 5, 6.
+
+Sannolikheten **_P_** (från engelskans *probability*) för en händelse (**_H_**) att inträffa definieras enligt:
+$$P(H) = \frac{antalet\;gynnsamma\;utfall}{antalet\;möjliga\;utfall}$$
+
+Om vi antar att tärningen är rättvis (dvs sannolikheten att tärningen landar på vardera av sidorna är samma för alla sex) så är sannolikheten 1/6 (cirka 16.7%) för varje sida vid varje kast. Detta kallas *likformig sannolikhetsfördelning* (engelska: uniform distribution).  
+
+
+ 
+För muspekaren över staplarna för att se den faktiska sannolikheten (i procenthalt) för varje sida vid olika antal kast.
+
+### A2. Fördelning kring medelvärde
+
+
+```{r mean, warning=FALSE, echo=FALSE, message=FALSE}
+
+# Använd GGanimate för att animera sannolikhetsfördelningen från 1 kast till 10000 kast.
+
+tall_sd1 <- tibble(Längd = rnorm(1000, mean = 175, sd = 1))
+tall_sd2 <- tibble(Längd = rnorm(1000, mean = 175, sd = 2))
+tall_sd10 <- tibble(Längd = rnorm(1000, mean = 175, sd = 10))
+
+tall_plot <- function(data) {
+  plot_ly(data) %>%
+    add_histogram(x = ~Längd, marker = marker_format) %>%
+    config(displayModeBar = F)
+}
+
+bscols(widths = c(4,4,4),
+tall_plot(tall_sd1) %>% layout(title = "1 standardavvikelse", yaxis = list(title = "Antal")),
+tall_plot(tall_sd2) %>% layout(title = "2 standardavvikelser", yaxis = list(title = "Antal")),
+tall_plot(tall_sd10) %>% layout(title = "10 standardavvikelser", yaxis = list(title = "Antal"))
+)
+```
+
+*** 
+
+Some commentary about Frame 2.
+
+
+B. Mätningar av läge och spridning
+=========================================
+
+Column
+-----------------------------------------
+```{r position, warning=FALSE, echo=FALSE, message=FALSE}
+
+
+
+```
+
