@@ -20,9 +20,9 @@ lastmod: '2020-12-01T13:35:28+01:00'
 
 
 # **Referenshanteringssystem**  
-- Endnote (betalprogram)  
-- Zotero (gratis)  
-- Mendeley (gratis)  
+- Endnote (betalprogram men kan vara tillgänglig via universitetets studentkonto)  
+- Zotero (gratisprogram)  
+- Mendeley (gratisprogram)  
 
   
 
