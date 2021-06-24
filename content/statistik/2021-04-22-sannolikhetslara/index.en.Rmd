@@ -42,6 +42,16 @@ options(digits = 1)
 A. Sannolikhet {.storyboard}
 =========================================
 ### A1. Kast med tärning
+  
+Ett klassiskt exempel för att illustrera sannolikhet är att slå en tärning. 
+En tärning har 6 lika sidor med värdena 1, 2, 3, 4, 5, 6.
+
+Sannolikheten **_P_** (från engelskans *probability*) för en händelse (**_H_**) att inträffa definieras enligt:
+$$P(H) = \frac{antalet\;gynnsamma\;utfall}{antalet\;möjliga\;utfall}$$
+
+Om vi antar att tärningen är rättvis (dvs sannolikheten att tärningen landar på vardera av sidorna är samma för alla sex) så är sannolikheten 1/6 (cirka 16.7%) för varje sida vid varje kast. Detta kallas *likformig sannolikhetsfördelning* (engelska: uniform distribution).  
+
+  
 ```{r dice, warning=FALSE, echo=FALSE, message=FALSE}
 
 dice_roll <- function(roll) {
@@ -52,7 +62,7 @@ dice_roll <- function(roll) {
   group_by(Sida) %>%
   summarise(Antal = n()) %>%
   ungroup() %>%
-  mutate(Procent = Antal/sum(Antal)*100)
+  mutate(Procent = round(Antal/sum(Antal)*100, 0))
   return(data)
   }
 
@@ -100,14 +110,6 @@ plot_ly(dice_roll_100000) %>%
 ```
 
 *** 
-
-Ett klassiskt exempel för att illustrera sannolikhet är att slå en tärning. 
-En tärning har 6 lika sidor med värdena 1, 2, 3, 4, 5, 6.
-
-Sannolikheten **_P_** (från engelskans *probability*) för en händelse (**_H_**) att inträffa definieras enligt:
-$$P(H) = \frac{antalet\;gynnsamma\;utfall}{antalet\;möjliga\;utfall}$$
-
-Om vi antar att tärningen är rättvis (dvs sannolikheten att tärningen landar på vardera av sidorna är samma för alla sex) så är sannolikheten 1/6 (cirka 16.7%) för varje sida vid varje kast. Detta kallas *likformig sannolikhetsfördelning* (engelska: uniform distribution).  
 
 
  

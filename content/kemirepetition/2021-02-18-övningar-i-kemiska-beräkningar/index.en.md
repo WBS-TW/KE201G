@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 02 18 Övningar I Kemiska Beräkningar"
+title: "Övningar i kemiska beräkningar"
 subtitle: ""
 summary: ""
 authors: []
