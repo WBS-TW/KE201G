@@ -51,48 +51,6 @@ Initialer inom paranteser visar kursansvarig lärare för varje kurs. Dessa är:
 
 <br><br><br>
 
-# Vad krävs för att kunna ta naturvetenskaplig kanidatexamen i kemi?
-
-För varje program inom Örebro universitet så finns det en utbildningsplan som informerar om vad som krävs för att ta examen inom ämnet. Utbildningsplan för Analysvetenskaplig program i kemi med inriktning mot forensik hittar du [här](https://api.oru.se/oruapi/v1/utbildningsinformation/utbildning/NAK1K?typ=program&accept=html&revision=2.000&termin=20212&sprak=sv).  
-
-Om den rekommenderade utbildningsplanen följs så kommer studenten att läsa 112,5 hp kurser inom kemi, 30 hp biologi, 15 hp rättsvetenskap, 7,5 hp statistik och avsluta med ett 15 hp examensarbete inom ämnet.  
-För att kunna ta ett naturvetenskaplig kandidatexamen i kemi (180 hp) så krävs det 90 hp kemi varav minst 15 hp är ett självständigt arbete (examensarbete).  
-Nedan kan du se olika fördelningar av högskolepoäng mellan de olika kursområden för naturvetenskaplig kandidatexamen i kemi. 
-  
-  
-<!-- Divide into columns using Bootstrap from: https://holtzy.github.io/Pimp-my-rmd/ -->
-<div class = "row">
-  
-<div class = "col-md-6">
-
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-
-kurser <- data.frame(subject = c("Kemi: 112,5 hp", "Biologi: 30 hp", "Rättsvetenskap: 15 hp", "Statistik: 7,5 hp", "Examensarbete kemi: 15 hp"),
-                 HP = c(112.5, 30, 15, 7.5, 15))
-
-pie(kurser$HP, kurser$subject, col = c("green", "blue", "gray", "cyan", "yellow"),
-    main = "NV kandidatexamen i kemi enligt rekommenderad utbildningsplan")
-
-```
-
-</div>
-
-<div class = "col-md-6">
-
-
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-
-kurser <- data.frame(subject = c("Kemi: 75 hp", "Andra NV kurser: 30 hp", "Övriga: 60 hp", "Examensarbete kemi: 15 hp"),
-                 HP = c(75, 30, 60, 15))
-
-pie(kurser$HP, kurser$subject, col = c("green", "blue", "orange", "yellow"),
-    main = "Minsta krav för NV kandidatexamen i kemi")
-
-```
-
-</div>
-</div>
-
 
 
 
