@@ -23,7 +23,7 @@ runtime: shiny
 ---
 
 ```{r startup, echo=FALSE, warning=FALSE, message=FALSE}
-
+library(dplyr)
 library(shiny)
 library(widgetframe)
 library(plotly)
@@ -33,13 +33,20 @@ library(kableExtra)
 
 
 
-Här använder vi det berömda [Iris](https://en.wikipedia.org/wiki/Iris_flower_data_set) dataset som introducerades av den berömda statistikern Ronald Fisher för att klassificera tre olika irisblommor (Iris setosa, Iris virginica och Iris versicolor) utifrån längden (eng. Length) och bredden (Width) för deras kronblad (Petal) och foderblad (Sepal). 
-
+Här använder vi det berömda [Iris](https://en.wikipedia.org/wiki/Iris_flower_data_set) dataset som introducerades av den berömda statistikern Ronald Fisher för att klassificera tre olika blommor ur familjen irisblommor ( _Iris setosa_, _Iris virginica_ och _Iris versicolor_) utifrån längden (eng. Length) och bredden (Width) av deras kronblad (Petal) och foderblad (Sepal).
+  
+  
+![](iris.png)
+Som vi ser så ser dessa irisblommor väldigt lika ut. Nedan tabell visar resultat av dessa mätningarna (enhet = millimeter, mm).
+  
 ```{r DT, echo=FALSE, warning=FALSE, message=FALSE}
 
-kable(iris) %>%
+iris %>%
+  mutate(SampleID = seq_along(iris$Sepal.Length)) %>%
+  select(SampleID, everything()) %>%
+  kable() %>%
   kable_styling(latex_options = "striped") %>%
-  scroll_box(height = "300px", width = "70%")
+  scroll_box(height = "600px", width = "70%")
 
 
 ```
@@ -47,11 +54,11 @@ kable(iris) %>%
 <br>
 
 
-Här ser ni ett grafisk
+Vi kan se intressanta mönster om vi lägger ut dessa data i diverse diagram.
 ```{r plotly, echo=FALSE, warning=FALSE, message=FALSE}
 
 
-plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length) %>%
+plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length, color = ~Species) %>%
   plotly::add_markers()
 
 ```

@@ -10,7 +10,7 @@ active: true
 tags:
 - Laboration
 - Gantt
-- Projekt
+- Projektarbete
 - Rapport
 - Praktiska moment
 - Statistik
@@ -24,7 +24,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: Ganttschema med datum för varje kursmoment
+title: Ganttschema med datum för varje kursmoment inom introduktionskursen
 
 design:
   columns: "1"
@@ -49,16 +49,16 @@ gantt
   Salsundervisning: 2020-09-01, 2020-10-01
   
   section Labbar
-  Labbdugga: crit, LD, 2020-09-08, 1d
-  Labb 1 FTIR: crit, L1, 2020-09-14, 1d
+  Labbdugga: crit, LD, 2020-09-07, 1d
+  Labb 1 FTIR: crit, L1, 2020-09-13, 1d
   Färdigställa labbrapport 1: crit, after L1, 5d
-  Labb 2 ICP: crit, L2, 2020-09-15, 1d
+  Labb 2 ICP: crit, L2, 2020-09-14, 1d
   Färdigställa labbrapport 2: crit, after L2, 5d
-  Labb 3 GC: crit, L3, 2020-09-21, 1d
+  Labb 3 GC: crit, L3, 2020-09-20, 1d
   Färdigställa labbrapport 3: crit, after L3, 5d
-  Labb 4 DNA: crit, L4, 2020-09-22, 1d
+  Labb 4 DNA: crit, L4, 2020-09-21, 1d
   Färdigställa labbrapport 4: crit, after L4, 5d
-  Labb 5 Hår: crit, L5, 2020-09-25, 1d 
+  Labb 5 Hår: crit, L5, 2020-09-24, 1d 
   Färdigställa labbrapport 5: crit, after L5, 5d
   
   section Skiftlig rapport

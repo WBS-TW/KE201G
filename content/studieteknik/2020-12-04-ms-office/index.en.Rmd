@@ -16,7 +16,10 @@ lastmod: '2020-12-01T13:35:28+01:00'
 ---
 
 
+
 # **Word**
+
+Kort introduktion om ordbehandlingsprogram finns i kapitel 48 i _"Practical skills in Forensic Science"_. 
 
 
 # **Referenshanteringssystem**  
@@ -24,5 +27,12 @@ lastmod: '2020-12-01T13:35:28+01:00'
 - Zotero (gratisprogram)  
 - Mendeley (gratisprogram)  
 
+
+# **Excel**
   
+- Introduktion om kalkylblad (Excel) hittar du på kapitel 49.  
+- Handledning om hur man använder kalkylblad för linjär regression för kalibrering finns i Box 51.2.  
+- Grafer och datapresentationsteknik finns i Kaptiel 52 och 53.  
+
+
 

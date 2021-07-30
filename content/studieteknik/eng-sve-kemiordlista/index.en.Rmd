@@ -1,0 +1,45 @@
+---
+title: Eng-Sve kemiordlista
+author: ''
+date: '2021-07-21'
+slug: eng-sve-kemiordlista
+categories: []
+tags:
+  - Kemi
+subtitle: ''
+summary: 'En liten Eng-Sve kemiordlista'
+authors: []
+lastmod: '2021-07-21T18:19:09+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Här hittar ni en Engelsk-Svensk kemiordlist. Denna är fortfarande under uppbyggnad och nya ord kommer att läggas till i framtiden.
+
+```{r dictionary, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(DT)
+library(kableExtra)
+library(readxl)
+library(widgetframe)
+
+dictionary <- readxl::read_excel("Chem_Dictionary.xlsx")
+# dictionary2 <- datatable(dictionary,
+#               class = "cell-border stripe",
+#               rownames = FALSE,
+#               extensions = 'Scroller',
+#               options = list(scrollY = 200,
+#                              scroller = TRUE,
+#                              pageLength = 50))
+# widgetframe::frameWidget(dictionary, height = 200)
+
+dictionary %>% kbl() %>%
+  kable_styling()
+#   scroll_box()
+
+```
+
