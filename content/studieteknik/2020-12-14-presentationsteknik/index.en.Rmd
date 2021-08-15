@@ -1,6 +1,7 @@
 ---
 title: Presentationsteknik
 author: 'admin'
+draft: true
 date: '2020-12-01'
 slug:
 categories: []
