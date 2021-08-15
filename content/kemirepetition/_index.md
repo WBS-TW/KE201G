@@ -16,4 +16,4 @@ https://www.naturvetenskap.org/kemi/gymnasiekemi/kemiska-berakningar/
 <br>
 <br>
 
-Vidare hittar ni moduler som innehåller 
+<!-- Vidare hittar ni moduler som innehåller -->

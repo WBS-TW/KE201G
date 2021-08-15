@@ -53,7 +53,7 @@ Denna hemsida innehåller kompletterande information och undervisningsmaterial t
 
 - Kursplaner kan ni söka genom denna **[länk](https://www.oru.se/utbildning/jag-ar-student/kurs--och-utbildningsplaner/)**
 
-- Vill du repetera grundläggande matematikkunskaper? **[Här](https://www.oru.se/institutioner/naturvetenskap-och-teknik/amnen/matematik/repetera-matematik/)** hittar du material med studiehandledning till grundläggande matematik. 
+- Vill du repetera grundläggande matematikkunskaper? **[Här](https://www.oru.se/institutioner/naturvetenskap-och-teknik/amnen/matematik/repetera-matematik/)** hittar du material med studiehandledning till grundläggande matematik, samt Kapitel 54 i kursboken _Practical skills in Forensic Science (3e upplagan)_. 
 
 {{< spoiler text="KLICKA HÄR FÖR TIPS INFÖR KURSSTART!" >}}
 
