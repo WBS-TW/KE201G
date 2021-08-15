@@ -22,6 +22,7 @@ summary: "Information om laborationer, säkerhet och laborationshandledning"
 lastmod: '2020-12-01T13:35:28+01:00'
 
 ---
+__Detaljerad instruktion för laboratoriearbete finns i blackboard.__
 
 - Varje student måste läsa in sig i laborationshandledningen innan det praktiska arbetet börjar. Ni behöver själva skriva ut laborationshandledningen. 
 - Laborationsrapporter ska skickas in till labbhandledare inom 5 arbetsdagar efter avslutad labbmoment.  

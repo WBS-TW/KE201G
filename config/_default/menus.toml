@@ -23,10 +23,10 @@
   url = "/skrivuppgift"
   weight = 4
 
-[[main]]
-  name = "Statistik"
-  url = "/statistik"
-  weight = 5
+#[[main]]
+#  name = "Statistik"
+#  url = "/statistik"
+#  weight = 5
 
 [[main]]
   name = "Repetera kemi"
