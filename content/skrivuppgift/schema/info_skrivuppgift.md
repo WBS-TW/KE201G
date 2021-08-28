@@ -70,6 +70,17 @@ Tänk på att referenserna i referenslistan är i bokstavsordning enligt efterna
 
 <br>
 
+### 2.3 Referenshanteringssystem  
+Källhänvisning och referenser brukar ändras mycket under rapportskrivningen så kan det vara svårt och tidskrävande att göra ändringarna i referenslistan när du lägger till eller tar bort källhänvisningarna. Dessutom så tar det tid att skriva in dessa i referenslistan i rätt format. Genom att använda ett referenshanteringsprogram blir det enklare att hålla reda på och skriva referenser, vilket sparar mycket tid. 
+Zotero är ett gratis referenshanteringsprogram som hjälper dig att spara, dela och infoga referenser och skapa referenslista enligt olika stilar. Information on Zotero hittar du via denna [länk](https://www.oru.se/ub/stod-till-studenter/program-for-att-hantera-referenser/zotero/).
+  
+En kort Youtube video om Zotero hittar du [här](https://www.youtube.com/watch?v=Iq7V2X5x2Pk (Zotero - A Quick Introduction)).
+  
+Efter installation så ska referenshanteringsprogrammet integreras i ordbehandlingsprogram som finns i din dator som t ex Microsoft Word. Om du använder Google Docs så hittar du information om detta [här](https://www.zotero.org/support/google_docs).
+  
+Referenshanteringssystem är väldig nyttigt att lära sig då det sparar mycket tid vid teknisk rapportskrivning.
+  
+  
 ## 3. Rapport 
 Resultaten från informationsinhämtningen sammanställs i en skriftlig rapport och följande gäller: 
 -	Utformningen kan vara flexibel beroende på ämne men kan generellt följa utformningen: 1. Syfte, 2. Introduktion, 3. Resultat, 4. Slutsats, 5. Referenslista. 

@@ -1,5 +1,5 @@
 ---
-title: Vad krävs för att kunna ta naturvetenskaplig kanidatexamen i kemi?
+title: Vad krävs för att kunna ta naturvetenskaplig kandidatexamen i kemi?
 author: ''
 date: '2021-07-07'
 slug: examen
@@ -74,7 +74,7 @@ pie(kurser$HP, kurser$subject, col = c("green", "blue", "orange", "yellow"),
 __Behörighetskrav:__
   
 _Grundnivå_
-_G1N_ – kurs med endast gymnasiala förkunskapskrav. 
+_G1N_ – kurs med endast gymnasiala förkunskapskrav.  
 _G1F_ – kurs med mindre än 60 hp kurs(er) på grundnivå som förkunskapskrav.   
 _G1E_ – kurs som innehåller särskilt utformat examensarbete för högskoleexamen.   
 _G2F_ – kurs med minst 60 hp kurs(er) på grundnivå som förkunskapskrav.  
