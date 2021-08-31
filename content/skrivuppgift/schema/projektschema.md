@@ -46,7 +46,7 @@ experience:
   company: "2021-09-16"
   date_end: "0001-01-05"
   date_start: "0001-01-04"
-  description: Ni ska läsa varandras rapporter och ge kommentarer (se nedan del om "Informationssökning och rapportering").
+  description: Ni ska läsa varandras rapporter och ge kommentarer (se del om "Informationssökning och rapportering").
 
 - title: "DEADLINE: 22 Sept, 2021 -  Återkoppling på rapport"
   company: "2021-09-22"

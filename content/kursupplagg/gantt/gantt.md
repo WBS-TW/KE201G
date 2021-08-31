@@ -63,7 +63,7 @@ gantt
   
   section Skiftlig rapport
   Färdigställa skriftlig arbete: crit, 2021-09-08, 2021-09-17
-  Granskare läser rapport och ger kommentarer (se instruktion nedan): crit, 2021-09-17, 2021-09-22
+  Granskare läser rapport och ger kommentarer: crit, 2021-09-17, 2021-09-22
   Revidera rapport och skicka till Thanh innan deadline: crit, 2021-09-22, 2021-09-25  
   
   section Statistik
