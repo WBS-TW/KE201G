@@ -1,0 +1,27 @@
+---
+title: Kromatografi
+author: ''
+date: '2021-09-02'
+slug: kromatografi
+categories: []
+tags:
+  - Kromatografi
+  - Laboration
+  - Separationsmetoder
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-09-02T17:55:46+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+runtime: shiny
+---
+
+<iframe height="1000" width="100%" frameborder="no" src="https://wbs-tw.shinyapps.io/Kromatografi/"> </iframe>
+
+
+
