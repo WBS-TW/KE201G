@@ -1,0 +1,24 @@
+---
+title: Kromatograi
+author: 'admin'
+date: '2020-12-01'
+slug:
+categories: []
+tags:
+  - Laboration
+  - Kromatografi
+  - Separationsmetoder
+subtitle: "Introdultion till kromatografiska separationer"
+summary: "Kromatografiska separationer"
+lastmod: '2021-08-01T13:35:28+01:00'
+runtime: shiny
+
+---
+
+<iframe height="1000" width="100%" frameborder="no" src="https://wbs-tw.shinyapps.io/Kromatografi/"> </iframe>
+
+
+
+
+
+
