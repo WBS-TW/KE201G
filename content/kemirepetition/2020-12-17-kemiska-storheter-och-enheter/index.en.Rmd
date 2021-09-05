@@ -1,7 +1,7 @@
 ---
 title: Kemiska storheter och enheter
 author: admin
-draft: true
+draft: false
 date: '2020-12-17'
 slug: kemiska-storheter-och-enheter
 categories: []
