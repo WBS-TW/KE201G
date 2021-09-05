@@ -21,7 +21,5 @@ projects: []
 runtime: shiny
 ---
 
-#Titrimetri
 
-<iframe height="1000" width="100%" frameborder="no" src="https://wbs-tw.shinyapps.io/Titrering/"> </iframe>
 
