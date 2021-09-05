@@ -69,12 +69,7 @@ plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length, color = ~Species) %>%
 #Extramaterial
 
 
-
-Shiny
-<iframe height="1000" width="100%" frameborder="no" src="https://wbs-tw.shinyapps.io/CPquant-Shiny/"> </iframe>
-
-
-
+# Användning av animationer för att beskriva statistik
 Paste Ungeviz gif
 ![](test.gif)
 
