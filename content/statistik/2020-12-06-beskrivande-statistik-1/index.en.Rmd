@@ -66,8 +66,6 @@ plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length, color = ~Species) %>%
 
 
 <br>
-#Extramaterial
-
 
 # Användning av animationer för att beskriva statistik
 Paste Ungeviz gif
