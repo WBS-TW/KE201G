@@ -2,16 +2,16 @@
 authors:
 - admin
 bio: 
-email: "tim.sinioja@oru.se"
+email: "ayan.au-musse@oru.se"
 
-title: Tim Sinioja
-name: Tim Sinioja
+title: Ayan Au Musse
+name: Ayan Au Musse
 weight: 9
 organizations:
 - name: MTM Research Centre
   url: ""
 role: Doktorand i kemi <br> 
-  Labbhandledare GC
+  Labbhandledare i GC-MS
 superuser: false
 user_groups:
 - Lärare
