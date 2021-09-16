@@ -5,6 +5,8 @@ type: widget_page
 
 Nedan finns länkar som kan vara till hjälp för att repetera gymnasiekemi:
 
+Din kemi: https://dinkemi.com
+  
 https://www.naturvetenskap.org/kemi
 
 https://www.naturvetenskap.org/kemi/gymnasiekemi/kemiska-berakningar

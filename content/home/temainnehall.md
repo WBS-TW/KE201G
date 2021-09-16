@@ -22,7 +22,7 @@ tags:
 # Order that this section appears on the page.
 weight: 2
 
-title: Vad är Analysvetenskap och Forensik
+title: Välkommen till kursen och programmet!
 subtitle: "_____"
 
 design:

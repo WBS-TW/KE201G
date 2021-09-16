@@ -50,5 +50,15 @@ Hitta pluggkompisar bland dina kursare......
 {{< /spoiler >}}
 
 
+<br>
+
+
+{{< spoiler text="Jag har blivit allvarlig sjuk eller skadat mig så att jag missar obligatoriska moment, vad ska jag göra?" >}}
+
+{{% callout note %}}
+Kontakta kursansvariga lärare om vad som har hänt. Vid sjukdom och skador så behöver vi läkarintyg som styrker detta. Beroende på vilka obligatoriska moment som missas så kan det behöva kompletteringslaboration eller skrivftliga kompletteringsuppgifter. I vissa tillfällen så kan inte kompletteringslaboration och man kan då hänvisas till nästa tillfälle för samma laborationsmoment.
+{{% /callout %}}
+
+{{< /spoiler >}}
 
 
