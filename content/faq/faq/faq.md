@@ -62,3 +62,16 @@ Kontakta kursansvariga lärare om vad som har hänt. Vid sjukdom och skador så 
 {{< /spoiler >}}
 
 
+
+<br>
+
+
+{{< spoiler text="Vilken slags matte behöver jag kunna??" >}}
+
+{{% callout note %}}
+Grundläggande statistik, algebra,...
+
+{{% /callout %}}
+
+{{< /spoiler >}}
+
