@@ -56,7 +56,7 @@ Hitta pluggkompisar bland dina kursare......
 {{< spoiler text="Jag har blivit allvarlig sjuk eller skadat mig så att jag missar obligatoriska moment, vad ska jag göra?" >}}
 
 {{% callout note %}}
-Kontakta kursansvariga lärare om vad som har hänt. Vid sjukdom och skador så behöver vi läkarintyg som styrker detta. Beroende på vilka obligatoriska moment som missas så kan det behöva kompletteringslaboration eller skrivftliga kompletteringsuppgifter. I vissa tillfällen så kan inte kompletteringslaboration och man kan då hänvisas till nästa tillfälle för samma laborationsmoment.
+Kontakta kursansvariga lärare om vad som har hänt. Vid sjukdom och skador så behöver vi läkarintyg som styrker detta. Beroende på vilka obligatoriska moment som missas så kan det behöva kompletteringslaboration eller skriftliga kompletteringsuppgifter. I vissa tillfällen så kan inte kompletteringslaboration ges och man hänvisas då till nästa tillfälle för samma laborationsmoment.
 {{% /callout %}}
 
 {{< /spoiler >}}
@@ -66,7 +66,7 @@ Kontakta kursansvariga lärare om vad som har hänt. Vid sjukdom och skador så 
 <br>
 
 
-{{< spoiler text="Vilken slags matte behöver jag kunna??" >}}
+{{< spoiler text="Vilken slags matte behöver jag kunna för kursen och för programmet?" >}}
 
 {{% callout note %}}
 Grundläggande statistik, algebra,...

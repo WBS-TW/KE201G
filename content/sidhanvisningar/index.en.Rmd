@@ -18,7 +18,7 @@ projects: []
 ---
 
 Nedan finns **en del** av den litteratur som ingår i kursen. Det rekommenderas att läsa på dessa avsnitt innan relaterade kursmoment startar.<br>
-Boken General Chemistry (11th ed) är endast rekommenderad läsning (alltså inte obligatorisk litteratur). Repetition av kemi samt kemiska beräkningar hittar ni i översta menun, vilket rekommenderas starkt för alla.
+Boken General Chemistry (11th ed) är endast rekommenderad läsning (alltså inte obligatorisk litteratur) för denna kurs. Länkar till repetition av kemi samt kemiska beräkningar hittar ni i översta menyn, vilket rekommenderas starkt för alla som börjat läsa programmet.
 
 ```{r sidor, warning=FALSE, echo=FALSE, message=FALSE}
 

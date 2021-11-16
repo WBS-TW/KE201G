@@ -24,7 +24,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: Ganttschema med datum för varje kursmoment inom introduktionskursen
+title: Kursinnehåll
 
 design:
   columns: "1"
@@ -35,6 +35,23 @@ design:
 # A red vertical line will be shown to mark "today"
 
 ---
+
+# Kursens upplägg
+
+Analysvetenskap och forensik är ett multidisciplinärt område som förutom kemi även innefattar biologi, juridik, statistik och presentationsteknik. Analytiska mätningar för att identifiera kemiska ämnen samt kvantifiera mängder av dessa och är essentiellt för analysvetenskap och att säkerställa att mätningarna har gått rätt till är viktigt inom forensiken. Målet med denna kurs ___Introduktion till analysvetenskap och forensik___ är att ge en förhandsvisning om vilka viktiga vetenskapsområde som programmet kommer att behandla. 
+
+- Grundläggande kemi
+- Analytisk kemi
+- Biokemi
+- Biologi
+- Statistik
+- Teknisk rapportskrivning
+
+
+<br>
+
+# Ganttschema med datum för varje kursmoment inom introduktionskursen
+<br>
 
 Uppdaterade datum för varje kursmoment finns i Kronox: https://kronox.oru.se/ (sök på kurskoden KE201G). <br>
 <span style="background-color: #FF0000">Rödmarkerade</span> är obligatoriska moment inom kursen.

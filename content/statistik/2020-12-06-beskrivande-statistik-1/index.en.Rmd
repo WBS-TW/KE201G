@@ -29,6 +29,9 @@ library(widgetframe)
 library(plotly)
 library(kableExtra)
 
+# Check Harvey for data analysis
+# https://dtharvey.github.io/data_analysis/Pages/TOC.html
+
 ```
 
 

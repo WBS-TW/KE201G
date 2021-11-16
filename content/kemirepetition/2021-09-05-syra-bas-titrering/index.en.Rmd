@@ -26,3 +26,4 @@ runtime: shiny
 <iframe height="1000" width="100%" frameborder="no" src="https://wbs-tw.shinyapps.io/Titrering/"> </iframe>
 
 
+Källkod från DT Harvey (med tillstånd, https://github.com/dtharvey/titrationCurves)
