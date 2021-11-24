@@ -1,5 +1,5 @@
 ---
-title: Vad krävs för att kunna ta naturvetenskaplig kanidatexamen i kemi?
+title: Vad krävs för att kunna ta naturvetenskaplig kandidatexamen i kemi?
 author: ''
 date: '2021-07-07'
 slug: examen
@@ -18,6 +18,14 @@ projects: []
 ---
 
 <script src="{{< blogdown/postref >}}index.en_files/header-attrs/header-attrs.js"></script>
+<script src="{{< blogdown/postref >}}index.en_files/htmlwidgets/htmlwidgets.js"></script>
+<script src="{{< blogdown/postref >}}index.en_files/d3/d3.min.js"></script>
+<script src="{{< blogdown/postref >}}index.en_files/dagre/dagre-d3.min.js"></script>
+<link href="{{< blogdown/postref >}}index.en_files/mermaid/dist/mermaid.css" rel="stylesheet" />
+<script src="{{< blogdown/postref >}}index.en_files/mermaid/dist/mermaid.slim.min.js"></script>
+<link href="{{< blogdown/postref >}}index.en_files/DiagrammeR-styles/styles.css" rel="stylesheet" />
+<script src="{{< blogdown/postref >}}index.en_files/chromatography/chromatography.js"></script>
+<script src="{{< blogdown/postref >}}index.en_files/DiagrammeR-binding/DiagrammeR.js"></script>
 
 
 <p>För varje program inom Örebro universitet så finns det en utbildningsplan som informerar om vad som krävs för att ta examen inom ämnet. Utbildningsplan för Analysvetenskaplig program i kemi med inriktning mot forensik hittar du <a href="https://api.oru.se/oruapi/v1/utbildningsinformation/utbildning/NAK1K?typ=program&amp;accept=html&amp;revision=2.000&amp;termin=20212&amp;sprak=sv">här</a>.</p>
@@ -30,7 +38,7 @@ projects: []
 - och avsluta med ett 15 hp examensarbete inom ämnet.</p>
 <p>För att kunna ta ut ett naturvetenskaplig kandidatexamen i kemi (180 hp) så krävs det:<br />
 90 hp kemi varav minst 15 hp är ett självständigt arbete (examensarbete).<br />
-Behörighet för självständigt arbete inom kandidatprogrammet är 75 hp i kemi där 15 hp på G2F-nivå i tillämpliga delar av kemiämnet ingår.</p>
+Behörighet för självständigt arbete inom kandidatprogrammet är 75 hp i kemi där 15 hp på G2F-nivå (se nedan) i tillämpliga delar av kemiämnet ingår.</p>
 <p>Nedan kan du se olika fördelningar av högskolepoäng mellan de olika kursområden för naturvetenskaplig kandidatexamen i kemi.</p>
 <!-- Divide into columns using Bootstrap from: https://holtzy.github.io/Pimp-my-rmd/ -->
 <div class="row">
@@ -41,9 +49,13 @@ Behörighet för självständigt arbete inom kandidatprogrammet är 75 hp i kemi
 <p><img src="{{< blogdown/postref >}}index.en_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
 </div>
 </div>
+<div id="kursprogression-samt-förkunskaper-genom-programmet" class="section level2">
+<h2>Kursprogression samt förkunskaper genom programmet</h2>
+<div id="htmlwidget-1" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"diagram":"graph LR;\n    G1N{Gymnasiekemi <br> Gymnasiematte <br> andra förkunskaper} \n    style G1N fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5\n    \n    G1N --> KE201G[fa:fa-atom Introduktionskurs 7,5 hp G1N]\n    G1N --> KE202G[fa:fa-atom Allmän kemi I 7,5 hp]\n    G1N --> KE203G[fa:fa-atom Organisk o analytisk kemi 7,5 hp]\n    G1N --> KE204G[fa:fa-atom Biokemi 7,5 hp]\n    \n    G1N --> KR703G[Svenska rättssystemet 7,5 hp G1N]\n    G1N --> BI203G[fa:fa-dna Eukaryot cellbiologi 7,5 hp]\n    G1N --> BI204G[fa:fa-dna Prokaryot cellbiologi 7,5 hp]\n    \n        \n    KE202G --> G1{G1F 11,5 hp från <br> KE201G, KE202G, <br> KE203G, KE204G} \n    style G1 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5\n    KE201G --> G1\n    KE203G --> G1\n    KE204G --> G1\n    \n    \n    G1 --> KE206G[fa:fa-atom Allmän kemi II 7,5 hp G1F]\n    G1--> KE305G[fa:fa-atom Oorganisk kemi 7,5 hp G1F]\n    \n    G2{G1F Totalt 30 hp i kemi}\n    style G2 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5\n    \n    KE201G --> G2\n    KE202G --> G2\n    KE203G --> G2\n    KE204G --> G2\n    KE206G --> G2\n    KE305G --> G2\n\n    G2 --> KE307G[Analysvetenskap o forensik]\n    \n    "},"evals":[],"jsHooks":[]}</script>
 <p><strong>Behörighetskrav:</strong></p>
 <p><em>Grundnivå</em>
-<em>G1N</em> – kurs med endast gymnasiala förkunskapskrav.
+<em>G1N</em> – kurs med endast gymnasiala förkunskapskrav.<br />
 <em>G1F</em> – kurs med mindre än 60 hp kurs(er) på grundnivå som förkunskapskrav.<br />
 <em>G1E</em> – kurs som innehåller särskilt utformat examensarbete för högskoleexamen.<br />
 <em>G2F</em> – kurs med minst 60 hp kurs(er) på grundnivå som förkunskapskrav.<br />
@@ -55,3 +67,4 @@ Behörighet för självständigt arbete inom kandidatprogrammet är 75 hp i kemi
 <em>A1E</em> – kurs som innehåller examensarbete för magisterexamen.<br />
 <em>A2E</em> – kurs som innehåller examensarbete för masterexamen.<br />
 <em>AXX</em> – kurs som ej kan klassificeras enligt ovanstående modell.</p>
+</div>

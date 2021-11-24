@@ -69,6 +69,52 @@ pie(kurser$HP, kurser$subject, col = c("green", "blue", "orange", "yellow"),
 
 </div>
 </div>
+
+
+## Kursprogression samt förkunskaper genom programmet
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+library(DiagrammeR)
+mermaid("graph LR;
+    G1N{Gymnasiekemi <br> Gymnasiematte <br> andra förkunskaper} 
+    style G1N fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    
+    G1N --> KE201G[fa:fa-atom Introduktionskurs 7,5 hp G1N]
+    G1N --> KE202G[fa:fa-atom Allmän kemi I 7,5 hp]
+    G1N --> KE203G[fa:fa-atom Organisk o analytisk kemi 7,5 hp]
+    G1N --> KE204G[fa:fa-atom Biokemi 7,5 hp]
+    
+    G1N --> KR703G[Svenska rättssystemet 7,5 hp G1N]
+    G1N --> BI203G[fa:fa-dna Eukaryot cellbiologi 7,5 hp]
+    G1N --> BI204G[fa:fa-dna Prokaryot cellbiologi 7,5 hp]
+    
+        
+    KE202G --> G1{G1F 11,5 hp från <br> KE201G, KE202G, <br> KE203G, KE204G} 
+    style G1 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    KE201G --> G1
+    KE203G --> G1
+    KE204G --> G1
+    
+    
+    G1 --> KE206G[fa:fa-atom Allmän kemi II 7,5 hp G1F]
+    G1--> KE305G[fa:fa-atom Oorganisk kemi 7,5 hp G1F]
+    
+    G2{G1F Totalt 30 hp i kemi}
+    style G2 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    
+    KE201G --> G2
+    KE202G --> G2
+    KE203G --> G2
+    KE204G --> G2
+    KE206G --> G2
+    KE305G --> G2
+
+    G2 --> KE307G[Analysvetenskap o forensik]
+    
+    ")
+
+```
+
   
   
 __Behörighetskrav:__
