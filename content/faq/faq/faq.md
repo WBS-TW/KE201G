@@ -33,7 +33,7 @@ design:
 {{< spoiler text="Behöver jag skriva ut labbhandledningen?" >}}
 
 {{% callout note %}}
-Ja, du behöver skriva ut det och läsa igenom det innan laborationsmomentet börjar.
+Du behöver läsa igenom handledningen noga inför varje laborationsmomentet så att du är väl förbered och införstådd i vad du ska göra. Ni bör skriva ut det på papper men det räcker med en labbhandledning per grupp.
 {{% /callout %}}
 
 {{< /spoiler >}}
@@ -56,7 +56,7 @@ Hitta pluggkompisar bland dina kursare......
 {{< spoiler text="Jag har blivit allvarlig sjuk eller skadat mig så att jag missar obligatoriska moment, vad ska jag göra?" >}}
 
 {{% callout note %}}
-Kontakta kursansvariga lärare om vad som har hänt. Vid sjukdom och skador så behöver vi läkarintyg som styrker detta. Beroende på vilka obligatoriska moment som missas så kan det behöva kompletteringslaboration eller skriftliga kompletteringsuppgifter. I vissa tillfällen så kan inte kompletteringslaboration ges och man hänvisas då till nästa tillfälle för samma laborationsmoment.
+Kontakta kursansvariga lärare om vad som har hänt. Vid sjukdom och skador så behöver vi läkarintyg som styrker detta. Beroende på vilka obligatoriska moment som missas så kan det behöva kompletteringslaboration eller skriftliga kompletteringsuppgifter. I vissa tillfällen så kan inte kompletteringslaboration eller uppgifter ges och man hänvisas då till nästa tillfälle för samma laborationsmoment (oftast året efter).
 {{% /callout %}}
 
 {{< /spoiler >}}
