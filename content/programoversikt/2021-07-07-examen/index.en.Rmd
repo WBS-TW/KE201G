@@ -80,14 +80,16 @@ mermaid("graph LR;
     style G1N fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
     
     G1N --> KE201G[fa:fa-atom Introduktionskurs 7,5 hp G1N]
-    G1N --> KE202G[fa:fa-atom Allmän kemi I 7,5 hp]
-    G1N --> KE203G[fa:fa-atom Organisk o analytisk kemi 7,5 hp]
-    G1N --> KE204G[fa:fa-atom Biokemi 7,5 hp]
+    G1N --> KE202G[fa:fa-atom Allmän kemi I 7,5 hp G1N]
+    G1N --> KE203G[fa:fa-atom Organisk o analytisk kemi 7,5 hp G1N]
+    G1N --> KE204G[fa:fa-atom Biokemi 7,5 hp G1N]
     
-    G1N --> KR703G[Svenska rättssystemet 7,5 hp G1N]
-    G1N --> BI203G[fa:fa-dna Eukaryot cellbiologi 7,5 hp]
-    G1N --> BI204G[fa:fa-dna Prokaryot cellbiologi 7,5 hp]
-    
+    G1N --> KR703G[fa:fa-balance-scale-right Svenska rättssystemet 7,5 hp G1N]
+    G1N --> BI203G[fa:fa-dna Eukaryot cellbiologi 7,5 hp G1N]
+    G1N --> BI204G[fa:fa-dna Prokaryot cellbiologi 7,5 hp G1N]
+    G1N --> BI207G[fa:fa-dna Fysiologi 7,5 hp G1N]
+    G1N --> MA002G[fa:fa-calculator Matematik för NV 7,5 hp G1N]
+    G1N --> RV008G[fa:fa-balance-scale-right Nationell miljörätt 7,5 hp G1N]
         
     KE202G --> G1{G1F 11,5 hp från <br> KE201G, KE202G, <br> KE203G, KE204G} 
     style G1 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
@@ -97,7 +99,8 @@ mermaid("graph LR;
     
     
     G1 --> KE206G[fa:fa-atom Allmän kemi II 7,5 hp G1F]
-    G1--> KE305G[fa:fa-atom Oorganisk kemi 7,5 hp G1F]
+    G1 --> KE305G[fa:fa-atom Oorganisk kemi 7,5 hp G1F]
+    G1 --> KE306G[fa:fa-atom Analytisk kemi 7,5 hp G1F]
     
     G2{G1F Totalt 30 hp i kemi}
     style G2 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
@@ -108,8 +111,36 @@ mermaid("graph LR;
     KE204G --> G2
     KE206G --> G2
     KE305G --> G2
+    KE306G --> G2
 
     G2 --> KE307G[Analysvetenskap o forensik]
+    
+    G3{45 hp kemi inkl Analytisk kemi <br> samt ytterliggare <br> 15 hp kemi el biologi}
+    style G3 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    KE306G --> G3
+    G3 --> KE308G[fa:fa-atom Instrumentella Analytiska metoder 15 hp]
+    
+    G3 --> G4{minst 60 hp kemi G2F}
+    style G4 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    G4 --> KE309G[fa:fa-atom Miljöforensik 15 hp]
+    G4 --> KE310G[fa:fa-atom Analytisk biokemi 15 hp]
+    
+    G5{minst 60 hp varav minst 15 hp på avancerad nivå}
+    style G5 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    
+    G3 --> G5
+    KE308G --> G5
+    KE309G --> G5
+    KE310 --> G5
+    
+    KE315G[Självständig arbete 15 hp]
+    KE330G[Självständig arbete 30 hp]
+    
+    G5 --> KE315G
+    G5 --> KE330G
+    
+    G6{minst 75 hp kemi varav minst 15 hp självständig arbete}
+
     
     ")
 
