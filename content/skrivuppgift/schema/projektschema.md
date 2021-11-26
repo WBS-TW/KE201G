@@ -39,7 +39,7 @@ experience:
   company: "2021-09-08"
   date_end: "0001-01-06"
   date_start: "0001-01-05"
-  description: Varje grupp meddelar Thanh vilket ämne ni har valt att skriva från listan i [Sektion 4](#uppgifter). 
+  description: Varje grupp meddelar Thanh vilket ämne ni har valt att skriva från listan i [Kapitel 4](#uppgifter). 
   
 
 - title: "DEADLINE: 16 Sept, 2021  -  Rapport färdigställs och skickas till gruppen som ska granska"

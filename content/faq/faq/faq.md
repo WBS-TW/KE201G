@@ -37,9 +37,7 @@ Du behöver läsa igenom handledningen noga inför varje laborationsmomentet så
 {{% /callout %}}
 
 {{< /spoiler >}}
-
 <br>
-
 
 {{< spoiler text="Hur gör jag för att plugga i universitetet?" >}}
 
@@ -48,8 +46,15 @@ Hitta pluggkompisar bland dina kursare......
 {{% /callout %}}
 
 {{< /spoiler >}}
+<br>
 
+{{< spoiler text="Vilka kursmoment är obligatoriska?" >}}
 
+{{% callout note %}}
+Obligatoriska moment anges oftast av kursansvarig under introduktionsföreläsningen. Generellt så är de flesta teoretiska föreläsningarna inte obligatoriska. Seminarier, grupparbeten samt laborationer är oftast obligatoriska moment.
+{{% /callout %}}
+
+{{< /spoiler >}}
 <br>
 
 
