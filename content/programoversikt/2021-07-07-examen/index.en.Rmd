@@ -159,6 +159,34 @@ mermaid("graph LR;
 
   
   
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+library(DiagrammeR)
+grViz("
+    digraph progression{
+    
+    graph [fontsize = 12]
+    
+    node [shape = box]
+    G1N [label = 'Gymnasiekemi Gymnasiematte andra förkunskaper']
+    G1 [label = 'G1F 11,5 hp från KE201G, KE202G, KE203G, KE204G']
+    G2 [label = 'G1F Totalt 30 hp i kemi']
+    G3 [label = '45 hp kemi inkl Analytisk kemi samt ytterliggare 15 hp kemi el biologi']
+    G4 [label = 'minst 60 hp kemi G2F']
+    G5 [label = 'minst 60 hp varav minst 15 hp på avancerad nivå']
+    G6 [label = 'minst 75 hp kemi varav minst 15 hp självständig arbete']
+    
+    }
+    
+    ")
+
+```
+
+
+
+  
+  
 __Behörighetskrav:__
   
 _Grundnivå_
