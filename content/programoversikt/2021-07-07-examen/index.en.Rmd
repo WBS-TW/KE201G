@@ -95,7 +95,7 @@ mermaid("graph LR;
     G5{minst 60 hp varav minst 15 hp på avancerad nivå}
     style G5 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
     
-    G6{minst 75 hp kemi varav minst 15 hp självständig arbete}
+    G6{Kandidatexamen <br> minst 75 hp kemi varav <br> minst 15 hp självständig arbete}
     style G6 fill: #4EFE0C ,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
     
     G1N --> KE201G[fa:fa-atom Introduktionskurs 7,5 hp G1N]
@@ -151,7 +151,8 @@ mermaid("graph LR;
     G5 --> KE315G
     G5 --> KE330G
     
-    
+    KE315G --> G6
+    KE330G --> G6
     
     ")
 
