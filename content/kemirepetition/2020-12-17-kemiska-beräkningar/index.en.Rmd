@@ -21,5 +21,12 @@ projects: []
 runtime: shiny
 ---
 
+# Nogrannhet och precision  
 
 
+## Avrundning  
+
+
+# Signifikanta värdesiffror  
+
+(Key concept 3.1, contextual meths in chemistry)
